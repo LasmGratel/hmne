@@ -2,8 +2,10 @@
   HM NIS Edit (c) 2003 Héctor Mauricio Rodríguez Segura <ranametal@users.sourceforge.net>
   For conditions of distribution and use, see license.txt
 
-  Instal Options controls design classes
+  Install Options controls design classes
 
+  $Id: IOControls.pas,v 1.4 2004/02/02 20:41:40 ranametal Exp $
+  
 }
 unit IOControls;
 
