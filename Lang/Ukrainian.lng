@@ -19,14 +19,14 @@ LangID=1058
 MainCaption=HM NIS Edit
 
 ; Menus
-FileMenu=&Ôàéë
-EditMenu=&Ðåäàãóâàííÿ
-SearchMenu=&Ïîøóê
-ViewMenu=&Âèãëÿä
-FormatMenu=Ô&îðìàò
-ToolsMenu=&²íñòðóìåíòè
+FileMenu=&Ð¤Ð°Ð¹Ð»
+EditMenu=&Ð ÐµÐ´Ð°Ð³ÑƒÐ²Ð°Ð½Ð½Ñ
+SearchMenu=&ÐŸÐ¾ÑˆÑƒÐº
+ViewMenu=&Ð’Ð¸Ð³Ð»ÑÐ´
+FormatMenu=Ð¤&Ð¾Ñ€Ð¼Ð°Ñ‚
+ToolsMenu=&Ð†Ð½ÑÑ‚Ñ€ÑƒÐ¼ÐµÐ½Ñ‚Ð¸
 NSISMenu=&NSIS
-WindowMenu=Â³êí&î
+WindowMenu=Ð’Ñ–ÐºÐ½&Ð¾
 HelpMenu=&?
 
 ;------------------------------------------------------------------------
@@ -35,261 +35,261 @@ HelpMenu=&?
 ; ItemText|ShortCut|UsageHint
 
 ; File menu
-BlankFile=Íîâèé &ïîðîæí³é ñöåíàð³é
-TemplateFile=&Íîâèé ñöåíàð³é ç øàáëîíó
-WizardFile=Íîâèé ñöåíàð³é â³ä &Ìàéñòðà ñöåíàð³¿â
-NewIOFile=Íîâèé &ôàéë ç íàñòðîéêàìè óñòàíîâêè
-FileOpen=&Â³äêðèòè
-Reopen=Â³äêðèòè &çàíîâî
-FileSave=Ç&áåðåãòè
-FileSaveAs=Çáåðåãòè ÿ&ê ...
-FilePrint=&Äðóê
-FileConfigPrint=Íàñòðîéêè äðóêó
-FileExit=&Âèõ³ä
+BlankFile=ÐÐ¾Ð²Ð¸Ð¹ &Ð¿Ð¾Ñ€Ð¾Ð¶Ð½Ñ–Ð¹ ÑÑ†ÐµÐ½Ð°Ñ€Ñ–Ð¹
+TemplateFile=&ÐÐ¾Ð²Ð¸Ð¹ ÑÑ†ÐµÐ½Ð°Ñ€Ñ–Ð¹ Ð· ÑˆÐ°Ð±Ð»Ð¾Ð½Ñƒ
+WizardFile=ÐÐ¾Ð²Ð¸Ð¹ ÑÑ†ÐµÐ½Ð°Ñ€Ñ–Ð¹ Ð²Ñ–Ð´ &ÐœÐ°Ð¹ÑÑ‚Ñ€Ð° ÑÑ†ÐµÐ½Ð°Ñ€Ñ–Ñ—Ð²
+NewIOFile=ÐÐ¾Ð²Ð¸Ð¹ &Ñ„Ð°Ð¹Ð» Ð· Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ°Ð¼Ð¸ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ¸
+FileOpen=&Ð’Ñ–Ð´ÐºÑ€Ð¸Ñ‚Ð¸
+Reopen=Ð’Ñ–Ð´ÐºÑ€Ð¸Ñ‚Ð¸ &Ð·Ð°Ð½Ð¾Ð²Ð¾
+FileSave=Ð—&Ð±ÐµÑ€ÐµÐ³Ñ‚Ð¸
+FileSaveAs=Ð—Ð±ÐµÑ€ÐµÐ³Ñ‚Ð¸ Ñ&Ðº ...
+FilePrint=&Ð”Ñ€ÑƒÐº
+FileConfigPrint=ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð´Ñ€ÑƒÐºÑƒ
+FileExit=&Ð’Ð¸Ñ…Ñ–Ð´
 
 ; Edit menu
-EditUndo=&Â³äì³íà ââåäåííÿ
-EditRedo=&Çàñòîñóâàòè
-EditCut=&Âèð³çàòè
-EditCopy=Ê&îï³þâàòè
-EditCopyAsHTML=Êîï³þâàòè ÿê HTML
-EditPaste=&Âñòàâèòè
-EditSelectAll=&Âèä³ëèòè âñå
+EditUndo=&Ð’Ñ–Ð´Ð¼Ñ–Ð½Ð° Ð²Ð²ÐµÐ´ÐµÐ½Ð½Ñ
+EditRedo=&Ð—Ð°ÑÑ‚Ð¾ÑÑƒÐ²Ð°Ñ‚Ð¸
+EditCut=&Ð’Ð¸Ñ€Ñ–Ð·Ð°Ñ‚Ð¸
+EditCopy=Ðš&Ð¾Ð¿Ñ–ÑŽÐ²Ð°Ñ‚Ð¸
+EditCopyAsHTML=ÐšÐ¾Ð¿Ñ–ÑŽÐ²Ð°Ñ‚Ð¸ ÑÐº HTML
+EditPaste=&Ð’ÑÑ‚Ð°Ð²Ð¸Ñ‚Ð¸
+EditSelectAll=&Ð’Ð¸Ð´Ñ–Ð»Ð¸Ñ‚Ð¸ Ð²ÑÐµ
 
 ; Search menu
-EditFind=Çí&àéòè
-EditFindNext=Ç&íàéòè çíîâó
-EditReplace=&Çàì³íèòè
-SearchGotoLine=&Ïåðåéòè íà ë³í³þ|F2|Ïåðåéòè íà âêàçàíó ë³í³þ
-ToggleBookmark=&Âêëþ÷èòè Çàêëàäêè
-GotoBookmark=Ïåð&åéòè íà çàêëàäêó
-Bookmark=Çàêëàäêà
+EditFind=Ð—Ð½&Ð°Ð¹Ñ‚Ð¸
+EditFindNext=Ð—&Ð½Ð°Ð¹Ñ‚Ð¸ Ð·Ð½Ð¾Ð²Ñƒ
+EditReplace=&Ð—Ð°Ð¼Ñ–Ð½Ð¸Ñ‚Ð¸
+SearchGotoLine=&ÐŸÐµÑ€ÐµÐ¹Ñ‚Ð¸ Ð½Ð° Ð»Ñ–Ð½Ñ–ÑŽ|F2|ÐŸÐµÑ€ÐµÐ¹Ñ‚Ð¸ Ð½Ð° Ð²ÐºÐ°Ð·Ð°Ð½Ñƒ Ð»Ñ–Ð½Ñ–ÑŽ
+ToggleBookmark=&Ð’ÐºÐ»ÑŽÑ‡Ð¸Ñ‚Ð¸ Ð—Ð°ÐºÐ»Ð°Ð´ÐºÐ¸
+GotoBookmark=ÐŸÐµÑ€&ÐµÐ¹Ñ‚Ð¸ Ð½Ð° Ð·Ð°ÐºÐ»Ð°Ð´ÐºÑƒ
+Bookmark=Ð—Ð°ÐºÐ»Ð°Ð´ÐºÐ°
 
 ; View menu
-ToolBarsMenu=Ïàíåë³
-ViewBrowser=Áðîâçåð|F4|Ïîêàçàòè/ïðèõîâàòè áðîâçåð
-ViewWindowList=Ñïèñîê â³êîí|F5|Ïîêàçàòè/ïðèõîâàòè â³äêðèò³ ôàéëè
-ViewIOPanel=Óïðàâë³ííÿ &²íñòàëÿö³éíèìè îïö³ÿìè|F6|Ïîêàçàòè/ïðèõîâàòè ïàíåë³ Îïö³é Óñòàíîâîê
-ViewStatusBar=&Ñòðîêà ñòàòóñà
-ViewLogBox=Â³êíî ç ëîãîì
-ViewSpecialChars=Ñïåö³àëüí³ çíàêè|F10|Ïîêàçàòè ïåðåõîäè ë³í³é, ïðîá³ëè òà ñïåö ñèìâîëè
-IOToggleDesignMode=Âêëþ÷èòè ðåæèì äèçàéíó|F12|Ïåðåêëþ÷èòèñÿ ì³æ ðåæèìàìè
-ViewOptions=&Îïö³¿|F11|Ïîêàçàòè ä³ëîã íàëàøòóâàíü
+ToolBarsMenu=ÐŸÐ°Ð½ÐµÐ»Ñ–
+ViewBrowser=Ð‘Ñ€Ð¾Ð²Ð·ÐµÑ€|F4|ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚Ð¸/Ð¿Ñ€Ð¸Ñ…Ð¾Ð²Ð°Ñ‚Ð¸ Ð±Ñ€Ð¾Ð²Ð·ÐµÑ€
+ViewWindowList=Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð²Ñ–ÐºÐ¾Ð½|F5|ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚Ð¸/Ð¿Ñ€Ð¸Ñ…Ð¾Ð²Ð°Ñ‚Ð¸ Ð²Ñ–Ð´ÐºÑ€Ð¸Ñ‚Ñ– Ñ„Ð°Ð¹Ð»Ð¸
+ViewIOPanel=Ð£Ð¿Ñ€Ð°Ð²Ð»Ñ–Ð½Ð½Ñ &Ð†Ð½ÑÑ‚Ð°Ð»ÑÑ†Ñ–Ð¹Ð½Ð¸Ð¼Ð¸ Ð¾Ð¿Ñ†Ñ–ÑÐ¼Ð¸|F6|ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚Ð¸/Ð¿Ñ€Ð¸Ñ…Ð¾Ð²Ð°Ñ‚Ð¸ Ð¿Ð°Ð½ÐµÐ»Ñ– ÐžÐ¿Ñ†Ñ–Ð¹ Ð£ÑÑ‚Ð°Ð½Ð¾Ð²Ð¾Ðº
+ViewStatusBar=&Ð¡Ñ‚Ñ€Ð¾ÐºÐ° ÑÑ‚Ð°Ñ‚ÑƒÑÐ°
+ViewLogBox=Ð’Ñ–ÐºÐ½Ð¾ Ð· Ð»Ð¾Ð³Ð¾Ð¼
+ViewSpecialChars=Ð¡Ð¿ÐµÑ†Ñ–Ð°Ð»ÑŒÐ½Ñ– Ð·Ð½Ð°ÐºÐ¸|F10|ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚Ð¸ Ð¿ÐµÑ€ÐµÑ…Ð¾Ð´Ð¸ Ð»Ñ–Ð½Ñ–Ð¹, Ð¿Ñ€Ð¾Ð±Ñ–Ð»Ð¸ Ñ‚Ð° ÑÐ¿ÐµÑ† ÑÐ¸Ð¼Ð²Ð¾Ð»Ð¸
+IOToggleDesignMode=Ð’ÐºÐ»ÑŽÑ‡Ð¸Ñ‚Ð¸ Ñ€ÐµÐ¶Ð¸Ð¼ Ð´Ð¸Ð·Ð°Ð¹Ð½Ñƒ|F12|ÐŸÐµÑ€ÐµÐºÐ»ÑŽÑ‡Ð¸Ñ‚Ð¸ÑÑ Ð¼Ñ–Ð¶ Ñ€ÐµÐ¶Ð¸Ð¼Ð°Ð¼Ð¸
+ViewOptions=&ÐžÐ¿Ñ†Ñ–Ñ—|F11|ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚Ð¸ Ð´Ñ–Ð»Ð¾Ð³ Ð½Ð°Ð»Ð°ÑˆÑ‚ÑƒÐ²Ð°Ð½ÑŒ
 
 ; Format menu
-FormatIndent=&Àâòîâ³äñòóï
-FormatUnIndent=&Áåç Àâòîâ³äñòóïó
-FormatUpperCase=Â&åðõí³é ðåã³ñòð
-FormatLowerCase=&Íèæí³é ðåã³ñòð
-FormatToggleCase=&Ïåðåêëþ÷èòè ðåã³ñòð
-FormatQuoteSelection=&Öèòóâàòè âèáðàíå
+FormatIndent=&ÐÐ²Ñ‚Ð¾Ð²Ñ–Ð´ÑÑ‚ÑƒÐ¿
+FormatUnIndent=&Ð‘ÐµÐ· ÐÐ²Ñ‚Ð¾Ð²Ñ–Ð´ÑÑ‚ÑƒÐ¿Ñƒ
+FormatUpperCase=Ð’&ÐµÑ€Ñ…Ð½Ñ–Ð¹ Ñ€ÐµÐ³Ñ–ÑÑ‚Ñ€
+FormatLowerCase=&ÐÐ¸Ð¶Ð½Ñ–Ð¹ Ñ€ÐµÐ³Ñ–ÑÑ‚Ñ€
+FormatToggleCase=&ÐŸÐµÑ€ÐµÐºÐ»ÑŽÑ‡Ð¸Ñ‚Ð¸ Ñ€ÐµÐ³Ñ–ÑÑ‚Ñ€
+FormatQuoteSelection=&Ð¦Ð¸Ñ‚ÑƒÐ²Ð°Ñ‚Ð¸ Ð²Ð¸Ð±Ñ€Ð°Ð½Ðµ
 
 ; Tools menu
-ToolsInsertColor=Âñòàâèòè &êîë³ð
-ToolsInsertFile=Âñòàâèòè &³ì'ÿ ôàéëà
-CodeTemplates=Øàáëîíè êîä³â
-ToolsEditCodeTemplate=&Ðåäàãóâàòè øàáëîíè
+ToolsInsertColor=Ð’ÑÑ‚Ð°Ð²Ð¸Ñ‚Ð¸ &ÐºÐ¾Ð»Ñ–Ñ€
+ToolsInsertFile=Ð’ÑÑ‚Ð°Ð²Ð¸Ñ‚Ð¸ &Ñ–Ð¼'Ñ Ñ„Ð°Ð¹Ð»Ð°
+CodeTemplates=Ð¨Ð°Ð±Ð»Ð¾Ð½Ð¸ ÐºÐ¾Ð´Ñ–Ð²
+ToolsEditCodeTemplate=&Ð ÐµÐ´Ð°Ð³ÑƒÐ²Ð°Ñ‚Ð¸ ÑˆÐ°Ð±Ð»Ð¾Ð½Ð¸
 
 ; NSIS menu
-NSISCompil=&Êîìï³ëþâàòè ñöåíàð³é
-NSISCompilRun=Êîìï³ëþâàòè ³ çàïóñòèòè|Shift+F9|Êîìï³ëþâàòè ³ çàïóñòèòè àêòèâíèé ñêðèïò
+NSISCompil=&ÐšÐ¾Ð¼Ð¿Ñ–Ð»ÑŽÐ²Ð°Ñ‚Ð¸ ÑÑ†ÐµÐ½Ð°Ñ€Ñ–Ð¹
+NSISCompilRun=ÐšÐ¾Ð¼Ð¿Ñ–Ð»ÑŽÐ²Ð°Ñ‚Ð¸ Ñ– Ð·Ð°Ð¿ÑƒÑÑ‚Ð¸Ñ‚Ð¸|Shift+F9|ÐšÐ¾Ð¼Ð¿Ñ–Ð»ÑŽÐ²Ð°Ñ‚Ð¸ Ñ– Ð·Ð°Ð¿ÑƒÑÑ‚Ð¸Ñ‚Ð¸ Ð°ÐºÑ‚Ð¸Ð²Ð½Ð¸Ð¹ ÑÐºÑ€Ð¸Ð¿Ñ‚
 n_NSISStopCompile=Stop compile|Esc|Stop the compiler process
-NSISExec=&Çàïóñòèòè óñòàíîâêó
-NSISConfig=&Êîíô³ãóðàö³ÿ
+NSISExec=&Ð—Ð°Ð¿ÑƒÑÑ‚Ð¸Ñ‚Ð¸ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÑƒ
+NSISConfig=&ÐšÐ¾Ð½Ñ„Ñ–Ð³ÑƒÑ€Ð°Ñ†Ñ–Ñ
 
 ; Window menu
-WindowCascade=Ðîçòàøóâàòè êàñêàäîì
-WindowTileHorizontal=Ïî ãîðèçîíòàë³
-WindowTileVertical=Ïî âåðòèêàë³
-WindowArrangle=Â³äíîâèòè âñå
-WindowPrior=Ïîïåðåäíº â³êíî||
-WindowNext=Íàñòóïíå â³êíî||
-WindowList=Ñïèñîê â³êîí
-WindowClose=Çàêðèòè â³êíî
-WindowShow=Ïîêàçàòè â³êíî
-WindowSMU=Ïå&êëþ÷èòè íà íàéá³ëüø âèêîðèñòîâóâàíå|Shift+Ctrl+W|
+WindowCascade=Ð Ð¾Ð·Ñ‚Ð°ÑˆÑƒÐ²Ð°Ñ‚Ð¸ ÐºÐ°ÑÐºÐ°Ð´Ð¾Ð¼
+WindowTileHorizontal=ÐŸÐ¾ Ð³Ð¾Ñ€Ð¸Ð·Ð¾Ð½Ñ‚Ð°Ð»Ñ–
+WindowTileVertical=ÐŸÐ¾ Ð²ÐµÑ€Ñ‚Ð¸ÐºÐ°Ð»Ñ–
+WindowArrangle=Ð’Ñ–Ð´Ð½Ð¾Ð²Ð¸Ñ‚Ð¸ Ð²ÑÐµ
+WindowPrior=ÐŸÐ¾Ð¿ÐµÑ€ÐµÐ´Ð½Ñ” Ð²Ñ–ÐºÐ½Ð¾||
+WindowNext=ÐÐ°ÑÑ‚ÑƒÐ¿Ð½Ðµ Ð²Ñ–ÐºÐ½Ð¾||
+WindowList=Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð²Ñ–ÐºÐ¾Ð½
+WindowClose=Ð—Ð°ÐºÑ€Ð¸Ñ‚Ð¸ Ð²Ñ–ÐºÐ½Ð¾
+WindowShow=ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚Ð¸ Ð²Ñ–ÐºÐ½Ð¾
+WindowSMU=ÐŸÐµ&ÐºÐ»ÑŽÑ‡Ð¸Ñ‚Ð¸ Ð½Ð° Ð½Ð°Ð¹Ð±Ñ–Ð»ÑŒÑˆ Ð²Ð¸ÐºÐ¾Ñ€Ð¸ÑÑ‚Ð¾Ð²ÑƒÐ²Ð°Ð½Ðµ|Shift+Ctrl+W|
 
 
 ; Help menu
-HelpNSIS=Äîïîìîãà ïî NSIS
-HelpAbout=Ïðî ïðîãðàìó ...
+HelpNSIS=Ð”Ð¾Ð¿Ð¾Ð¼Ð¾Ð³Ð° Ð¿Ð¾ NSIS
+HelpAbout=ÐŸÑ€Ð¾ Ð¿Ñ€Ð¾Ð³Ñ€Ð°Ð¼Ñƒ ...
 
 ; Help menu URL links
 ; The entries must have this format: ItemText|ShortCut|URL|ImageIndex 
 ; ImageIndex is the image to show in the item; use 41 for home pages, 43 for forums,
 ; 45 for generic links and -1 for no image.
 ; For add a separator use URLLinkX=-
-URLLink1=Äîìàøíÿ ñòîð³íêà HM NIS Edit||http://hmne.sourceforge.net/|41
-URLLink2=Îô³ö³éíèé âåá-ñàéò NSIS||http://nsis.sourceforge.net/|41
-URLLink3=Ôîðóì ïî NSIS||http://forums.winamp.com/forumdisplay.php?s=&forumid=65|43
-URLLink4=Óêðà¿íñüê³ ïåðåêëàäè ïðîãðàì||http://www.nash-soft.org.ua/|41
+URLLink1=Ð”Ð¾Ð¼Ð°ÑˆÐ½Ñ ÑÑ‚Ð¾Ñ€Ñ–Ð½ÐºÐ° HM NIS Edit||http://hmne.sourceforge.net/|41
+URLLink2=ÐžÑ„Ñ–Ñ†Ñ–Ð¹Ð½Ð¸Ð¹ Ð²ÐµÐ±-ÑÐ°Ð¹Ñ‚ NSIS||http://nsis.sourceforge.net/|41
+URLLink3=Ð¤Ð¾Ñ€ÑƒÐ¼ Ð¿Ð¾ NSIS||http://forums.winamp.com/forumdisplay.php?s=&forumid=65|43
+URLLink4=Ð£ÐºÑ€Ð°Ñ—Ð½ÑÑŒÐºÑ– Ð¿ÐµÑ€ÐµÐºÐ»Ð°Ð´Ð¸ Ð¿Ñ€Ð¾Ð³Ñ€Ð°Ð¼||http://www.nash-soft.org.ua/|41
 
 ;------------------------------------------------------------------------
 ;------------------------------------------------------------------------
 
 ; Tool Bars
-TBMenuCaption=Ìåíþ
-TBStandardCaption=Ñòàíäàðòíî
-TBEditCaption=Ðåäàãóâàííÿ
-TBViewCaption=Ïåðåãëÿä
-TBSearchCaption=Ïîøóê
-TBFormatCaption=Ôîðìàò
+TBMenuCaption=ÐœÐµÐ½ÑŽ
+TBStandardCaption=Ð¡Ñ‚Ð°Ð½Ð´Ð°Ñ€Ñ‚Ð½Ð¾
+TBEditCaption=Ð ÐµÐ´Ð°Ð³ÑƒÐ²Ð°Ð½Ð½Ñ
+TBViewCaption=ÐŸÐµÑ€ÐµÐ³Ð»ÑÐ´
+TBSearchCaption=ÐŸÐ¾ÑˆÑƒÐº
+TBFormatCaption=Ð¤Ð¾Ñ€Ð¼Ð°Ñ‚
 TBNSISCaption=NSIS
-TBWindowCaption=Â³êíà
-IOPanelCaption=Îïö³¿ Óñòàíîâêè
-Browser=Áðîâçåð
-MoreButtons=Á³ëüøå êíîïîê
+TBWindowCaption=Ð’Ñ–ÐºÐ½Ð°
+IOPanelCaption=ÐžÐ¿Ñ†Ñ–Ñ— Ð£ÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ¸
+Browser=Ð‘Ñ€Ð¾Ð²Ð·ÐµÑ€
+MoreButtons=Ð‘Ñ–Ð»ÑŒÑˆÐµ ÐºÐ½Ð¾Ð¿Ð¾Ðº
 
 ; Status bar
-CaretPos=Ïîç: %d - Ñòîð: %d
-Modified=Çì³íåíî
-Insert=Ââ³ä
-Overwrite=Ïåðåïèñàòè
-ReadOnly=Ò³ëüêè ÷èòàííÿ
+CaretPos=ÐŸÐ¾Ð·: %d - Ð¡Ñ‚Ð¾Ñ€: %d
+Modified=Ð—Ð¼Ñ–Ð½ÐµÐ½Ð¾
+Insert=Ð’Ð²Ñ–Ð´
+Overwrite=ÐŸÐµÑ€ÐµÐ¿Ð¸ÑÐ°Ñ‚Ð¸
+ReadOnly=Ð¢Ñ–Ð»ÑŒÐºÐ¸ Ñ‡Ð¸Ñ‚Ð°Ð½Ð½Ñ
 
 ; Open file captions
-OpenTemplateCaption=Â³äêðèòè øàáëîí
-OpenScriptCaption=Â³äêðèòè ñöåíàð³é
+OpenTemplateCaption=Ð’Ñ–Ð´ÐºÑ€Ð¸Ñ‚Ð¸ ÑˆÐ°Ð±Ð»Ð¾Ð½
+OpenScriptCaption=Ð’Ñ–Ð´ÐºÑ€Ð¸Ñ‚Ð¸ ÑÑ†ÐµÐ½Ð°Ñ€Ñ–Ð¹
 
 ; IO designer
-BringToFront=&Ïåðåì³ñòèòè â ïî÷àòîê
-SendToBack=&Â³äïðàâèòè íàçàä
-Delete=&Âèäàëèòè|Ctrl+Del|
-SetTabOrder=Ïîðÿäîê &òàáëèöü...
-ResizeWinto=Äèçàéíåð &ðîçì³ð³â
+BringToFront=&ÐŸÐµÑ€ÐµÐ¼Ñ–ÑÑ‚Ð¸Ñ‚Ð¸ Ð² Ð¿Ð¾Ñ‡Ð°Ñ‚Ð¾Ðº
+SendToBack=&Ð’Ñ–Ð´Ð¿Ñ€Ð°Ð²Ð¸Ñ‚Ð¸ Ð½Ð°Ð·Ð°Ð´
+Delete=&Ð’Ð¸Ð´Ð°Ð»Ð¸Ñ‚Ð¸|Ctrl+Del|
+SetTabOrder=ÐŸÐ¾Ñ€ÑÐ´Ð¾Ðº &Ñ‚Ð°Ð±Ð»Ð¸Ñ†ÑŒ...
+ResizeWinto=Ð”Ð¸Ð·Ð°Ð¹Ð½ÐµÑ€ &Ñ€Ð¾Ð·Ð¼Ñ–Ñ€Ñ–Ð²
 ResizeItems=Modern UI|320/140;Classic UI|266/130
 
 ; TabOrder dialog
-TabOrderCaption=Ïîðÿäîê òàáëèöü
-Up=&Ââåðõ
-Down=&Âíèç
+TabOrderCaption=ÐŸÐ¾Ñ€ÑÐ´Ð¾Ðº Ñ‚Ð°Ð±Ð»Ð¸Ñ†ÑŒ
+Up=&Ð’Ð²ÐµÑ€Ñ…
+Down=&Ð’Ð½Ð¸Ð·
 
 ; File filters
-AllFileFilter=Âñ³ ôàéëè (*.*)|*.*
-NSISFileFilter=Ôàéëè NSIS (*.nsi, *.nsh, *.ini)|*.nsi;*.nsh;*.ini
-ExeFileFilter=Âèêîíóâàí³ ôàéëè (*.exe)|*.exe
-HTMLFileFilter=Ôàéëè HTML (*.htm, *.html)|*.htm;*.html
-INIFileFilter=Ôàéë íàñòðîéîê óñòàíîâêè (*.ini)|*.ini
-IconFileFilter=Ôàéëè çíà÷ê³â (*.ico)|*.ico
-LicFileFilter=Ôàéë ç ë³öåíç³ºþ (*.rtf, *.txt)|*.rtf;*.txt
-NSHFileFilter=Ôàéëè çàãîëîâê³â NSIS (*.nsh)|*.nsh
-RTFFileFilter=Òåêñò â ôîðìàò³ RTF (*.rtf)|*.rtf
-TextFileFilter=Òåêñòîâ³ ôàéëè (*.txt)|*.txt
-CHMFileFilter=Ôàéëè äîâ³äêè CHM (*.chm)|*.chm
-HelpFileFilter=Ôàéëè äîâ³äêè (*.chm, *.html)|*.chm;*.html
+AllFileFilter=Ð’ÑÑ– Ñ„Ð°Ð¹Ð»Ð¸ (*.*)|*.*
+NSISFileFilter=Ð¤Ð°Ð¹Ð»Ð¸ NSIS (*.nsi, *.nsh, *.ini)|*.nsi;*.nsh;*.ini
+ExeFileFilter=Ð’Ð¸ÐºÐ¾Ð½ÑƒÐ²Ð°Ð½Ñ– Ñ„Ð°Ð¹Ð»Ð¸ (*.exe)|*.exe
+HTMLFileFilter=Ð¤Ð°Ð¹Ð»Ð¸ HTML (*.htm, *.html)|*.htm;*.html
+INIFileFilter=Ð¤Ð°Ð¹Ð» Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹Ð¾Ðº ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ¸ (*.ini)|*.ini
+IconFileFilter=Ð¤Ð°Ð¹Ð»Ð¸ Ð·Ð½Ð°Ñ‡ÐºÑ–Ð² (*.ico)|*.ico
+LicFileFilter=Ð¤Ð°Ð¹Ð» Ð· Ð»Ñ–Ñ†ÐµÐ½Ð·Ñ–Ñ”ÑŽ (*.rtf, *.txt)|*.rtf;*.txt
+NSHFileFilter=Ð¤Ð°Ð¹Ð»Ð¸ Ð·Ð°Ð³Ð¾Ð»Ð¾Ð²ÐºÑ–Ð² NSIS (*.nsh)|*.nsh
+RTFFileFilter=Ð¢ÐµÐºÑÑ‚ Ð² Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚Ñ– RTF (*.rtf)|*.rtf
+TextFileFilter=Ð¢ÐµÐºÑÑ‚Ð¾Ð²Ñ– Ñ„Ð°Ð¹Ð»Ð¸ (*.txt)|*.txt
+CHMFileFilter=Ð¤Ð°Ð¹Ð»Ð¸ Ð´Ð¾Ð²Ñ–Ð´ÐºÐ¸ CHM (*.chm)|*.chm
+HelpFileFilter=Ð¤Ð°Ð¹Ð»Ð¸ Ð´Ð¾Ð²Ñ–Ð´ÐºÐ¸ (*.chm, *.html)|*.chm;*.html
 TeXFileFilter=TeX Files (*.tex)|*.tex
 
 ; Message boxes
-ErrorDlgCaption=Ïîìèëêà
-InformationDlgCaption=²íôîðìàö³ÿ
-QuestionDlgCaption=Ï³äòâåðäæåííÿ
-WarningDlgCaption=Óâàãà
+ErrorDlgCaption=ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ°
+InformationDlgCaption=Ð†Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ñ–Ñ
+QuestionDlgCaption=ÐŸÑ–Ð´Ñ‚Ð²ÐµÑ€Ð´Ð¶ÐµÐ½Ð½Ñ
+WarningDlgCaption=Ð£Ð²Ð°Ð³Ð°
 
 ; Buttons
-OK=ÎÊ
-Cancel=Ñêàñóâàòè
-Next=Äàë³ >
-Back=< Íàçàä
-Finish=Çàê³í÷èòè
-Apply=Çàñòîñóâàòè
+OK=ÐžÐš
+Cancel=Ð¡ÐºÐ°ÑÑƒÐ²Ð°Ñ‚Ð¸
+Next=Ð”Ð°Ð»Ñ– >
+Back=< ÐÐ°Ð·Ð°Ð´
+Finish=Ð—Ð°ÐºÑ–Ð½Ñ‡Ð¸Ñ‚Ð¸
+Apply=Ð—Ð°ÑÑ‚Ð¾ÑÑƒÐ²Ð°Ñ‚Ð¸
 
 ; About box
-AboutBoxCaption=Ïðî ïðîãðàìó
+AboutBoxCaption=ÐŸÑ€Ð¾ Ð¿Ñ€Ð¾Ð³Ñ€Ð°Ð¼Ñƒ
 
 ; Find window
-FindTextCaption=Ïîøóê òåêñòó
-FindText=Çíàéòè òåêñò:
-SearchOptions=Îïö³¿
-CaseSensitive=Âðàõîâóâàòè ðåã³ñòð
-WholeWordOnly=Ò³ëüêè ö³ëå ñëîâî
-SearchFromCursor=Ïîøóê â³ä êóðñîðà
-SearchSelectedOnly=Ó âèáðàíîìó òåêñò³
-Forward=Âïåðåä
-Backward=Íàçàä
+FindTextCaption=ÐŸÐ¾ÑˆÑƒÐº Ñ‚ÐµÐºÑÑ‚Ñƒ
+FindText=Ð—Ð½Ð°Ð¹Ñ‚Ð¸ Ñ‚ÐµÐºÑÑ‚:
+SearchOptions=ÐžÐ¿Ñ†Ñ–Ñ—
+CaseSensitive=Ð’Ñ€Ð°Ñ…Ð¾Ð²ÑƒÐ²Ð°Ñ‚Ð¸ Ñ€ÐµÐ³Ñ–ÑÑ‚Ñ€
+WholeWordOnly=Ð¢Ñ–Ð»ÑŒÐºÐ¸ Ñ†Ñ–Ð»Ðµ ÑÐ»Ð¾Ð²Ð¾
+SearchFromCursor=ÐŸÐ¾ÑˆÑƒÐº Ð²Ñ–Ð´ ÐºÑƒÑ€ÑÐ¾Ñ€Ð°
+SearchSelectedOnly=Ð£ Ð²Ð¸Ð±Ñ€Ð°Ð½Ð¾Ð¼Ñƒ Ñ‚ÐµÐºÑÑ‚Ñ–
+Forward=Ð’Ð¿ÐµÑ€ÐµÐ´
+Backward=ÐÐ°Ð·Ð°Ð´
 
 ; Replace window
-ReplaceTextCaption=Çàì³íèòè òåêñò
-ReplaceText=Òåêñò äëÿ çàì³íè:
-ReplaceAll=Çàì³íèòè âñå
+ReplaceTextCaption=Ð—Ð°Ð¼Ñ–Ð½Ð¸Ñ‚Ð¸ Ñ‚ÐµÐºÑÑ‚
+ReplaceText=Ð¢ÐµÐºÑÑ‚ Ð´Ð»Ñ Ð·Ð°Ð¼Ñ–Ð½Ð¸:
+ReplaceAll=Ð—Ð°Ð¼Ñ–Ð½Ð¸Ñ‚Ð¸ Ð²ÑÐµ
 
 ; Goto line window
-GotoLineCaption=Ïåðåéòè äî íîìåðó ðÿäêà
-GotoLinePrompt=Ââåä³òü íîìåð ðÿäêà:
+GotoLineCaption=ÐŸÐµÑ€ÐµÐ¹Ñ‚Ð¸ Ð´Ð¾ Ð½Ð¾Ð¼ÐµÑ€Ñƒ Ñ€ÑÐ´ÐºÐ°
+GotoLinePrompt=Ð’Ð²ÐµÐ´Ñ–Ñ‚ÑŒ Ð½Ð¾Ð¼ÐµÑ€ Ñ€ÑÐ´ÐºÐ°:
 
 ; Options window
-EnvironmentConfigPage=Îòî÷åííÿ
-EditorConfigPage=Ðåäàêòîð
-CompilerConfigPage=Êîìï³ëÿòîð
-PluginsConfigPage=Äîäàòêè
+EnvironmentConfigPage=ÐžÑ‚Ð¾Ñ‡ÐµÐ½Ð½Ñ
+EditorConfigPage=Ð ÐµÐ´Ð°ÐºÑ‚Ð¾Ñ€
+CompilerConfigPage=ÐšÐ¾Ð¼Ð¿Ñ–Ð»ÑÑ‚Ð¾Ñ€
+PluginsConfigPage=Ð”Ð¾Ð´Ð°Ñ‚ÐºÐ¸
 
 ; Options window Environment Config Page
-GeneralOptions=Çàãàëüí³ âàð³àíòè
-ShowSplashScreen=Ïîêàçóâàòè ïî÷àòêîâèé ëîãîòèï
-ShowWelcomeDialog=Ïîêàçàòè â³êíî ïðèâ³òàííÿ
-MultipleInstances=Ê³ëüêà êîï³é ïðîãðàìè
-OpenIniFilesIn=Â³äêðèâàòè ôàéë .ini â ðåæèì³ ïðîåêòó
-OpenFilesOnStartup=Â³äêðèâàòè îñòàíí³ ôàéëè ïðè ñòàðò³
-UseDefBrowser=Âèêîðèñòîâóâàòè ñòàíäàðòíèé áðàóçåð
-Lang=&Âèáåð³òü ìîâó
-BrowserHome=Íàâ³ãàòîð óäîìà:
-ToolBarOptions=Âàð³àíòè ïàíåëåé ³íñòðóìåíòó
-TBSmoothDrag=Ãëàäêà ïðîòåêö³ÿ â ïàíåëÿõ ³íñòðóìåíòó
-PanelSmoothDrag=Ãëàäêà ïðîòåêö³ÿ â ïàíåëÿõ ³íñòðóìåíòó
-TBTheme=Òåìà ïàíåë³ ³íñòðóìåíòó:
-Default=Ñòàíäàðòíî
+GeneralOptions=Ð—Ð°Ð³Ð°Ð»ÑŒÐ½Ñ– Ð²Ð°Ñ€Ñ–Ð°Ð½Ñ‚Ð¸
+ShowSplashScreen=ÐŸÐ¾ÐºÐ°Ð·ÑƒÐ²Ð°Ñ‚Ð¸ Ð¿Ð¾Ñ‡Ð°Ñ‚ÐºÐ¾Ð²Ð¸Ð¹ Ð»Ð¾Ð³Ð¾Ñ‚Ð¸Ð¿
+ShowWelcomeDialog=ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚Ð¸ Ð²Ñ–ÐºÐ½Ð¾ Ð¿Ñ€Ð¸Ð²Ñ–Ñ‚Ð°Ð½Ð½Ñ
+MultipleInstances=ÐšÑ–Ð»ÑŒÐºÐ° ÐºÐ¾Ð¿Ñ–Ð¹ Ð¿Ñ€Ð¾Ð³Ñ€Ð°Ð¼Ð¸
+OpenIniFilesIn=Ð’Ñ–Ð´ÐºÑ€Ð¸Ð²Ð°Ñ‚Ð¸ Ñ„Ð°Ð¹Ð» .ini Ð² Ñ€ÐµÐ¶Ð¸Ð¼Ñ– Ð¿Ñ€Ð¾ÐµÐºÑ‚Ñƒ
+OpenFilesOnStartup=Ð’Ñ–Ð´ÐºÑ€Ð¸Ð²Ð°Ñ‚Ð¸ Ð¾ÑÑ‚Ð°Ð½Ð½Ñ– Ñ„Ð°Ð¹Ð»Ð¸ Ð¿Ñ€Ð¸ ÑÑ‚Ð°Ñ€Ñ‚Ñ–
+UseDefBrowser=Ð’Ð¸ÐºÐ¾Ñ€Ð¸ÑÑ‚Ð¾Ð²ÑƒÐ²Ð°Ñ‚Ð¸ ÑÑ‚Ð°Ð½Ð´Ð°Ñ€Ñ‚Ð½Ð¸Ð¹ Ð±Ñ€Ð°ÑƒÐ·ÐµÑ€
+Lang=&Ð’Ð¸Ð±ÐµÑ€Ñ–Ñ‚ÑŒ Ð¼Ð¾Ð²Ñƒ
+BrowserHome=ÐÐ°Ð²Ñ–Ð³Ð°Ñ‚Ð¾Ñ€ ÑƒÐ´Ð¾Ð¼Ð°:
+ToolBarOptions=Ð’Ð°Ñ€Ñ–Ð°Ð½Ñ‚Ð¸ Ð¿Ð°Ð½ÐµÐ»ÐµÐ¹ Ñ–Ð½ÑÑ‚Ñ€ÑƒÐ¼ÐµÐ½Ñ‚Ñƒ
+TBSmoothDrag=Ð“Ð»Ð°Ð´ÐºÐ° Ð¿Ñ€Ð¾Ñ‚ÐµÐºÑ†Ñ–Ñ Ð² Ð¿Ð°Ð½ÐµÐ»ÑÑ… Ñ–Ð½ÑÑ‚Ñ€ÑƒÐ¼ÐµÐ½Ñ‚Ñƒ
+PanelSmoothDrag=Ð“Ð»Ð°Ð´ÐºÐ° Ð¿Ñ€Ð¾Ñ‚ÐµÐºÑ†Ñ–Ñ Ð² Ð¿Ð°Ð½ÐµÐ»ÑÑ… Ñ–Ð½ÑÑ‚Ñ€ÑƒÐ¼ÐµÐ½Ñ‚Ñƒ
+TBTheme=Ð¢ÐµÐ¼Ð° Ð¿Ð°Ð½ÐµÐ»Ñ– Ñ–Ð½ÑÑ‚Ñ€ÑƒÐ¼ÐµÐ½Ñ‚Ñƒ:
+Default=Ð¡Ñ‚Ð°Ð½Ð´Ð°Ñ€Ñ‚Ð½Ð¾
 OfficeXP=OfficeXP
-Stripes=Ñìóãè
-FileAssoc=Àñîö³àö³¿ ôàéë³â
-DefaultEditor=&Çðîáèòè ðåäàêòîðîì ôàéë³â NSIS çà óìîâ÷àííÿì
-SuccessfullyRegister=HM NIS Edit óñï³øíî âñòàíîâëåíèé ÿê ðåäàêòîð ôàéë³â NSIS çà óìîâ÷àííÿì
-IOGridOptions=Äèçàéíåð InstallOptions
-DisplayGrid=Â³äîáðàæàòè ñ³òêó
-SnapToGrid=Ïðèòÿãóâàòè äî ñ³òêè
-GridX=Ðîçì³ð ñ³òêè ïî X:
-GridY=Ðîçì³ð ñ³òêè ïî Y:
-CtrlDims=Ïîêàçàòè ðîçì³ðè óïðàâë³ííÿ ÿê:
-RightBottom=Ââåðõ/Âíèç
-WidthHeight=Âèñîòà/Øèðèíà
-Both=Îáîº
-Other=²íøå
-SaveOptionsIn=Çáåðåãòè îïö³¿ äî:
-Registry=Ðåºñòðó
+Stripes=Ð¡Ð¼ÑƒÐ³Ð¸
+FileAssoc=ÐÑÐ¾Ñ†Ñ–Ð°Ñ†Ñ–Ñ— Ñ„Ð°Ð¹Ð»Ñ–Ð²
+DefaultEditor=&Ð—Ñ€Ð¾Ð±Ð¸Ñ‚Ð¸ Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¾Ñ€Ð¾Ð¼ Ñ„Ð°Ð¹Ð»Ñ–Ð² NSIS Ð·Ð° ÑƒÐ¼Ð¾Ð²Ñ‡Ð°Ð½Ð½ÑÐ¼
+SuccessfullyRegister=HM NIS Edit ÑƒÑÐ¿Ñ–ÑˆÐ½Ð¾ Ð²ÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ð¹ ÑÐº Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¾Ñ€ Ñ„Ð°Ð¹Ð»Ñ–Ð² NSIS Ð·Ð° ÑƒÐ¼Ð¾Ð²Ñ‡Ð°Ð½Ð½ÑÐ¼
+IOGridOptions=Ð”Ð¸Ð·Ð°Ð¹Ð½ÐµÑ€ InstallOptions
+DisplayGrid=Ð’Ñ–Ð´Ð¾Ð±Ñ€Ð°Ð¶Ð°Ñ‚Ð¸ ÑÑ–Ñ‚ÐºÑƒ
+SnapToGrid=ÐŸÑ€Ð¸Ñ‚ÑÐ³ÑƒÐ²Ð°Ñ‚Ð¸ Ð´Ð¾ ÑÑ–Ñ‚ÐºÐ¸
+GridX=Ð Ð¾Ð·Ð¼Ñ–Ñ€ ÑÑ–Ñ‚ÐºÐ¸ Ð¿Ð¾ X:
+GridY=Ð Ð¾Ð·Ð¼Ñ–Ñ€ ÑÑ–Ñ‚ÐºÐ¸ Ð¿Ð¾ Y:
+CtrlDims=ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚Ð¸ Ñ€Ð¾Ð·Ð¼Ñ–Ñ€Ð¸ ÑƒÐ¿Ñ€Ð°Ð²Ð»Ñ–Ð½Ð½Ñ ÑÐº:
+RightBottom=Ð’Ð²ÐµÑ€Ñ…/Ð’Ð½Ð¸Ð·
+WidthHeight=Ð’Ð¸ÑÐ¾Ñ‚Ð°/Ð¨Ð¸Ñ€Ð¸Ð½Ð°
+Both=ÐžÐ±Ð¾Ñ”
+Other=Ð†Ð½ÑˆÐµ
+SaveOptionsIn=Ð—Ð±ÐµÑ€ÐµÐ³Ñ‚Ð¸ Ð¾Ð¿Ñ†Ñ–Ñ— Ð´Ð¾:
+Registry=Ð ÐµÑ”ÑÑ‚Ñ€Ñƒ
 
 ; Options window Editor Config Page
-DisplayPage=Ïîêàç
-OptionsPage=Âàð³àíòè
-HighlighterPage=Êîëüîðè
+DisplayPage=ÐŸÐ¾ÐºÐ°Ð·
+OptionsPage=Ð’Ð°Ñ€Ñ–Ð°Ð½Ñ‚Ð¸
+HighlighterPage=ÐšÐ¾Ð»ÑŒÐ¾Ñ€Ð¸
 
 ; Options window Editor Display Page
 Gutter=Gutter
-GutterVisible=Âèäíî
-GutterShowLineNumbers=Ïîêàçàòè íîìåðè ðÿäêà
-GutterStartAtZero=Çàïóñê â íóëüîâîìó
-GutterShowLeaderZeros=Ïîêàçàòè íóëüîâ³ ë³äåðà
+GutterVisible=Ð’Ð¸Ð´Ð½Ð¾
+GutterShowLineNumbers=ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚Ð¸ Ð½Ð¾Ð¼ÐµÑ€Ð¸ Ñ€ÑÐ´ÐºÐ°
+GutterStartAtZero=Ð—Ð°Ð¿ÑƒÑÐº Ð² Ð½ÑƒÐ»ÑŒÐ¾Ð²Ð¾Ð¼Ñƒ
+GutterShowLeaderZeros=ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚Ð¸ Ð½ÑƒÐ»ÑŒÐ¾Ð²Ñ– Ð»Ñ–Ð´ÐµÑ€Ð°
 GutterFont=Use gutter font:
 GutterColor=Gutter color:
-Font=Øðèôò
-RightEdge=Ïðèâèé êóò
-EdgeColumn=Êðàéíÿ Êîëîíêà:
-EdgeColor=Êîë³ð êðàþ:
-LineTabSpacing=Ïðîì³æîê ì³æ ðÿäêàìè / Ðîçì³ùåííÿ òàáëèö³
-ExtraLines=Äîäàòêîâ³ Ë³í³¿:
-TabWidth=Øèðèíà Òàáëèö³:
-Bookmarks=Çàêëàäêè
-BookmarkKeys=Êëþ÷³ çàêëàäêè
-BookmarksVisible=Âèäèì³ çàêëàäêè
-EditorFont=Ôîíò Ðåäàêòîðà
+Font=Ð¨Ñ€Ð¸Ñ„Ñ‚
+RightEdge=ÐŸÑ€Ð¸Ð²Ð¸Ð¹ ÐºÑƒÑ‚
+EdgeColumn=ÐšÑ€Ð°Ð¹Ð½Ñ ÐšÐ¾Ð»Ð¾Ð½ÐºÐ°:
+EdgeColor=ÐšÐ¾Ð»Ñ–Ñ€ ÐºÑ€Ð°ÑŽ:
+LineTabSpacing=ÐŸÑ€Ð¾Ð¼Ñ–Ð¶Ð¾Ðº Ð¼Ñ–Ð¶ Ñ€ÑÐ´ÐºÐ°Ð¼Ð¸ / Ð Ð¾Ð·Ð¼Ñ–Ñ‰ÐµÐ½Ð½Ñ Ñ‚Ð°Ð±Ð»Ð¸Ñ†Ñ–
+ExtraLines=Ð”Ð¾Ð´Ð°Ñ‚ÐºÐ¾Ð²Ñ– Ð›Ñ–Ð½Ñ–Ñ—:
+TabWidth=Ð¨Ð¸Ñ€Ð¸Ð½Ð° Ð¢Ð°Ð±Ð»Ð¸Ñ†Ñ–:
+Bookmarks=Ð—Ð°ÐºÐ»Ð°Ð´ÐºÐ¸
+BookmarkKeys=ÐšÐ»ÑŽÑ‡Ñ– Ð·Ð°ÐºÐ»Ð°Ð´ÐºÐ¸
+BookmarksVisible=Ð’Ð¸Ð´Ð¸Ð¼Ñ– Ð·Ð°ÐºÐ»Ð°Ð´ÐºÐ¸
+EditorFont=Ð¤Ð¾Ð½Ñ‚ Ð ÐµÐ´Ð°ÐºÑ‚Ð¾Ñ€Ð°
 
 ; Options window Editor Options Page
-AutoIndent=Àâòî-Àáçàö|Áóäå âñòàâëÿòè ñèìâîë àáçàöó íà íîâèõ ë³í³ÿõ ç ò³ºþ æ ê³ëüê³ñòþ ïðîá³ë³â ÿê ïîïåðåäíÿ ë³í³ÿ
-DragAndDropEditing=Ðåäàãóâàííÿ ç Drag and drop|Äîçâîëÿº âàì, âèáðàòè áëîê òåêñòó ³ ïðîòÿãíóòè éîãî â ìåæàõ äîêóìåíòà äî ³íøîãî ðîçòàøóâàííÿ
-HalfPageScroll=Ïîëîâèííå ïðîêðó÷óâàííÿ|Ïðè ïðîêðó÷óâàíí³ çà äîïîìîãîþ êíîïîê page-up ³ page-down, ïðîêðó÷óºòüñÿ ò³ëüêè ïîëîâèíà ñòîð³íêè
+AutoIndent=ÐÐ²Ñ‚Ð¾-ÐÐ±Ð·Ð°Ñ†|Ð‘ÑƒÐ´Ðµ Ð²ÑÑ‚Ð°Ð²Ð»ÑÑ‚Ð¸ ÑÐ¸Ð¼Ð²Ð¾Ð» Ð°Ð±Ð·Ð°Ñ†Ñƒ Ð½Ð° Ð½Ð¾Ð²Ð¸Ñ… Ð»Ñ–Ð½Ñ–ÑÑ… Ð· Ñ‚Ñ–Ñ”ÑŽ Ð¶ ÐºÑ–Ð»ÑŒÐºÑ–ÑÑ‚ÑŽ Ð¿Ñ€Ð¾Ð±Ñ–Ð»Ñ–Ð² ÑÐº Ð¿Ð¾Ð¿ÐµÑ€ÐµÐ´Ð½Ñ Ð»Ñ–Ð½Ñ–Ñ
+DragAndDropEditing=Ð ÐµÐ´Ð°Ð³ÑƒÐ²Ð°Ð½Ð½Ñ Ð· Drag and drop|Ð”Ð¾Ð·Ð²Ð¾Ð»ÑÑ” Ð²Ð°Ð¼, Ð²Ð¸Ð±Ñ€Ð°Ñ‚Ð¸ Ð±Ð»Ð¾Ðº Ñ‚ÐµÐºÑÑ‚Ñƒ Ñ– Ð¿Ñ€Ð¾Ñ‚ÑÐ³Ð½ÑƒÑ‚Ð¸ Ð¹Ð¾Ð³Ð¾ Ð² Ð¼ÐµÐ¶Ð°Ñ… Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð° Ð´Ð¾ Ñ–Ð½ÑˆÐ¾Ð³Ð¾ Ñ€Ð¾Ð·Ñ‚Ð°ÑˆÑƒÐ²Ð°Ð½Ð½Ñ
+HalfPageScroll=ÐŸÐ¾Ð»Ð¾Ð²Ð¸Ð½Ð½Ðµ Ð¿Ñ€Ð¾ÐºÑ€ÑƒÑ‡ÑƒÐ²Ð°Ð½Ð½Ñ|ÐŸÑ€Ð¸ Ð¿Ñ€Ð¾ÐºÑ€ÑƒÑ‡ÑƒÐ²Ð°Ð½Ð½Ñ– Ð·Ð° Ð´Ð¾Ð¿Ð¾Ð¼Ð¾Ð³Ð¾ÑŽ ÐºÐ½Ð¾Ð¿Ð¾Ðº page-up Ñ– page-down, Ð¿Ñ€Ð¾ÐºÑ€ÑƒÑ‡ÑƒÑ”Ñ‚ÑŒÑÑ Ñ‚Ñ–Ð»ÑŒÐºÐ¸ Ð¿Ð¾Ð»Ð¾Ð²Ð¸Ð½Ð° ÑÑ‚Ð¾Ñ€Ñ–Ð½ÐºÐ¸
 ScrollByOneLess=Scroll by one less|Forces scrolling to be one less
 ScrollPastEOF=Scroll past end of file|Allows the cursor to go past the end of file marker
 ScrollPastEOL=Scroll past end of line|Allows the cursor to go past the last character into the white space at the end of a line
 ShowScrollHint=Show scroll hint|Shows a hint of the visible line numbers when scrolling vertically
-SmartTabs=Ðîçóìí³ òàáëèö³|When tabbing, the cursor will go to the next non-white space character of the previous line
-TabsToSpaces=Òàáëèö³ äî ³íòåðâàë³â|Converts a tab character to the number of spaces in Tab Width
+SmartTabs=Ð Ð¾Ð·ÑƒÐ¼Ð½Ñ– Ñ‚Ð°Ð±Ð»Ð¸Ñ†Ñ–|When tabbing, the cursor will go to the next non-white space character of the previous line
+TabsToSpaces=Ð¢Ð°Ð±Ð»Ð¸Ñ†Ñ– Ð´Ð¾ Ñ–Ð½Ñ‚ÐµÑ€Ð²Ð°Ð»Ñ–Ð²|Converts a tab character to the number of spaces in Tab Width
 TrimTrailingSpaces=Trim trailing spaces|Spaces at the end of lines will be trimmed and not saved
 AltSetsColumnMode=Alt sets column mode|Holding down the Alt Key will put the selection mode into columnar format
 KeepCaretX=Maintain caret column|When moving through lines the X position will always stay the same
@@ -301,218 +301,218 @@ EnhanceHomeKey=Enhance Home Key|Enhances home key positioning, similar to visual
 HideShowScrollbars=Hide scrollbars as necessary|if enabled, then the scrollbars will only show when necessary.  If you have ScrollPastEOL, then it the horizontal bar will always be there (it uses MaxLength instead)
 DisableScrollArrows=Disable scroll arrows|Disables the scroll bar arrow buttons when you can't scroll in that direction any more
 ShowSpecialChars=Show special chars|Shows linebreaks, spaces and tabs using special symbols
-UndoAfterSave=Â³äì³íÿòè &ï³ñëÿ çáåðåæåííÿ
-ViewUsageHints=&Âèêîðèñòîâóâàòè ï³äêàçêó ïî êîììàíäàì
+UndoAfterSave=Ð’Ñ–Ð´Ð¼Ñ–Ð½ÑÑ‚Ð¸ &Ð¿Ñ–ÑÐ»Ñ Ð·Ð±ÐµÑ€ÐµÐ¶ÐµÐ½Ð½Ñ
+ViewUsageHints=&Ð’Ð¸ÐºÐ¾Ñ€Ð¸ÑÑ‚Ð¾Ð²ÑƒÐ²Ð°Ñ‚Ð¸ Ð¿Ñ–Ð´ÐºÐ°Ð·ÐºÑƒ Ð¿Ð¾ ÐºÐ¾Ð¼Ð¼Ð°Ð½Ð´Ð°Ð¼
 
 Caret=Caret
-InsertCaret=Ñèìâîë âñòàâêè:
-OverwriteCaret=Ïåðåïèñàòèü ñèìâîë:
-VerticalLine=Âåðòèêàëüíà Ë³í³ÿ
-HorizontalLine=Ãîðèçîíòàëüíà Ë³í³ÿ
-HalfBlock=Ïîëîâèíà áëîêó
-Block=Áëîê
+InsertCaret=Ð¡Ð¸Ð¼Ð²Ð¾Ð» Ð²ÑÑ‚Ð°Ð²ÐºÐ¸:
+OverwriteCaret=ÐŸÐµÑ€ÐµÐ¿Ð¸ÑÐ°Ñ‚Ð¸ÑŒ ÑÐ¸Ð¼Ð²Ð¾Ð»:
+VerticalLine=Ð’ÐµÑ€Ñ‚Ð¸ÐºÐ°Ð»ÑŒÐ½Ð° Ð›Ñ–Ð½Ñ–Ñ
+HorizontalLine=Ð“Ð¾Ñ€Ð¸Ð·Ð¾Ð½Ñ‚Ð°Ð»ÑŒÐ½Ð° Ð›Ñ–Ð½Ñ–Ñ
+HalfBlock=ÐŸÐ¾Ð»Ð¾Ð²Ð¸Ð½Ð° Ð±Ð»Ð¾ÐºÑƒ
+Block=Ð‘Ð»Ð¾Ðº
 
 ; Options window Editor Highlighter Page
-UseHighlighter=&Âèêîðèñòîâóâàòè ï³äñâ³÷óâàííÿ ñèíòàêñèñó
-Element=Åëåìåíò 
-TextAttri=&Àòòð³áóòè òåêñòó
-Color=Êîëüîðè:
-Foreground=Ëèöüîâà ñòîðîíà
-Background=Ôîí
-FontStyle=Ñòèëü øðèôòó
-Bold=&Æèðíèé
-Italic=Êóðñèâ
-Underline=Ïî ë³í³¿
-HighlightVarsInsideStrings=&Ï³äñâ³÷óâàòè çì³íí³ âñåðåäèí³ çíà÷åíü
+UseHighlighter=&Ð’Ð¸ÐºÐ¾Ñ€Ð¸ÑÑ‚Ð¾Ð²ÑƒÐ²Ð°Ñ‚Ð¸ Ð¿Ñ–Ð´ÑÐ²Ñ–Ñ‡ÑƒÐ²Ð°Ð½Ð½Ñ ÑÐ¸Ð½Ñ‚Ð°ÐºÑÐ¸ÑÑƒ
+Element=Ð•Ð»ÐµÐ¼ÐµÐ½Ñ‚ 
+TextAttri=&ÐÑ‚Ñ‚Ñ€Ñ–Ð±ÑƒÑ‚Ð¸ Ñ‚ÐµÐºÑÑ‚Ñƒ
+Color=ÐšÐ¾Ð»ÑŒÐ¾Ñ€Ð¸:
+Foreground=Ð›Ð¸Ñ†ÑŒÐ¾Ð²Ð° ÑÑ‚Ð¾Ñ€Ð¾Ð½Ð°
+Background=Ð¤Ð¾Ð½
+FontStyle=Ð¡Ñ‚Ð¸Ð»ÑŒ ÑˆÑ€Ð¸Ñ„Ñ‚Ñƒ
+Bold=&Ð–Ð¸Ñ€Ð½Ð¸Ð¹
+Italic=ÐšÑƒÑ€ÑÐ¸Ð²
+Underline=ÐŸÐ¾ Ð»Ñ–Ð½Ñ–Ñ—
+HighlightVarsInsideStrings=&ÐŸÑ–Ð´ÑÐ²Ñ–Ñ‡ÑƒÐ²Ð°Ñ‚Ð¸ Ð·Ð¼Ñ–Ð½Ð½Ñ– Ð²ÑÐµÑ€ÐµÐ´Ð¸Ð½Ñ– Ð·Ð½Ð°Ñ‡ÐµÐ½ÑŒ
 
 ; Options window compiler options Page
-Paths=Øëÿõè
-Compiler=&Êîìï³ëÿòîð:
-Help=&Äîïîìîãà:
-Options=Íàñòðîéêè
-NoConfigFile=Â³äêëþ÷åííÿ âêëàäåííÿ êîíô³ãóðàö³éíîãî ôàéëà (nsisconf.nsh).
-NoConsole="%s" íå º ä³éñíèì êîíñîëüíèì äîäàòêîì.
-NOCD=&Â³äêëþ÷åíà çì³íà ïîòî÷íî¿ äèðåêòîð³¿ íà âêàçàíó â .nsi ôàéë³
-Simbols=&Ñèìâîëè
-SimbolColumn=Ñèìâîë
-ValueColumn=Çíà÷åííÿ
-AddSimbol=Äîäàòè 
-EditSimbol=Ðåäàãóâàòè
-DeleteSimbol=Âèäàëèòè
-EditSimbolCaption=Ðåäàãóâàòè ñèìâîë
-Simbol=&Ñèìâîë:
-Value=&Çíà÷åííÿ:
-DuplicateSymbol=Êëîíóâàòè ³ì'ÿ ñèìâîëó
+Paths=Ð¨Ð»ÑÑ…Ð¸
+Compiler=&ÐšÐ¾Ð¼Ð¿Ñ–Ð»ÑÑ‚Ð¾Ñ€:
+Help=&Ð”Ð¾Ð¿Ð¾Ð¼Ð¾Ð³Ð°:
+Options=ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸
+NoConfigFile=Ð’Ñ–Ð´ÐºÐ»ÑŽÑ‡ÐµÐ½Ð½Ñ Ð²ÐºÐ»Ð°Ð´ÐµÐ½Ð½Ñ ÐºÐ¾Ð½Ñ„Ñ–Ð³ÑƒÑ€Ð°Ñ†Ñ–Ð¹Ð½Ð¾Ð³Ð¾ Ñ„Ð°Ð¹Ð»Ð° (nsisconf.nsh).
+NoConsole="%s" Ð½Ðµ Ñ” Ð´Ñ–Ð¹ÑÐ½Ð¸Ð¼ ÐºÐ¾Ð½ÑÐ¾Ð»ÑŒÐ½Ð¸Ð¼ Ð´Ð¾Ð´Ð°Ñ‚ÐºÐ¾Ð¼.
+NOCD=&Ð’Ñ–Ð´ÐºÐ»ÑŽÑ‡ÐµÐ½Ð° Ð·Ð¼Ñ–Ð½Ð° Ð¿Ð¾Ñ‚Ð¾Ñ‡Ð½Ð¾Ñ— Ð´Ð¸Ñ€ÐµÐºÑ‚Ð¾Ñ€Ñ–Ñ— Ð½Ð° Ð²ÐºÐ°Ð·Ð°Ð½Ñƒ Ð² .nsi Ñ„Ð°Ð¹Ð»Ñ–
+Simbols=&Ð¡Ð¸Ð¼Ð²Ð¾Ð»Ð¸
+SimbolColumn=Ð¡Ð¸Ð¼Ð²Ð¾Ð»
+ValueColumn=Ð—Ð½Ð°Ñ‡ÐµÐ½Ð½Ñ
+AddSimbol=Ð”Ð¾Ð´Ð°Ñ‚Ð¸ 
+EditSimbol=Ð ÐµÐ´Ð°Ð³ÑƒÐ²Ð°Ñ‚Ð¸
+DeleteSimbol=Ð’Ð¸Ð´Ð°Ð»Ð¸Ñ‚Ð¸
+EditSimbolCaption=Ð ÐµÐ´Ð°Ð³ÑƒÐ²Ð°Ñ‚Ð¸ ÑÐ¸Ð¼Ð²Ð¾Ð»
+Simbol=&Ð¡Ð¸Ð¼Ð²Ð¾Ð»:
+Value=&Ð—Ð½Ð°Ñ‡ÐµÐ½Ð½Ñ:
+DuplicateSymbol=ÐšÐ»Ð¾Ð½ÑƒÐ²Ð°Ñ‚Ð¸ Ñ–Ð¼'Ñ ÑÐ¸Ð¼Ð²Ð¾Ð»Ñƒ
 
 ; Options window plugins config page
-PluginConfig=&Êîíô³ãóðàö³ÿ
-PluginAbout=&²íôî
+PluginConfig=&ÐšÐ¾Ð½Ñ„Ñ–Ð³ÑƒÑ€Ð°Ñ†Ñ–Ñ
+PluginAbout=&Ð†Ð½Ñ„Ð¾
 
 ; Code templates
-CodeTemplateCaption=Ðåäàãóâàòè øàáëîíè êîä³â
-TemplateNames=²ì'ÿ øàáëîíà
-NewTemplate=Íîâèé øàáëîí
-EditTemplatePrompt=&Âêàæ³òü ³ì'ÿ øàáëîíà:
-EditTemplate=Ðåäàãóâàòè øàáëîí
-AutoCompleteShortCut=&Âñòàíîâëþâàòè ÿðëèêè àâòîìàòè÷íî
-TemplateCode=Êîä øàáëîíà
-DuplicateTemplateName=Øàáëîí ç ³ì'ÿì "%s" âæå ³ñíóº
+CodeTemplateCaption=Ð ÐµÐ´Ð°Ð³ÑƒÐ²Ð°Ñ‚Ð¸ ÑˆÐ°Ð±Ð»Ð¾Ð½Ð¸ ÐºÐ¾Ð´Ñ–Ð²
+TemplateNames=Ð†Ð¼'Ñ ÑˆÐ°Ð±Ð»Ð¾Ð½Ð°
+NewTemplate=ÐÐ¾Ð²Ð¸Ð¹ ÑˆÐ°Ð±Ð»Ð¾Ð½
+EditTemplatePrompt=&Ð’ÐºÐ°Ð¶Ñ–Ñ‚ÑŒ Ñ–Ð¼'Ñ ÑˆÐ°Ð±Ð»Ð¾Ð½Ð°:
+EditTemplate=Ð ÐµÐ´Ð°Ð³ÑƒÐ²Ð°Ñ‚Ð¸ ÑˆÐ°Ð±Ð»Ð¾Ð½
+AutoCompleteShortCut=&Ð’ÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÑŽÐ²Ð°Ñ‚Ð¸ ÑÑ€Ð»Ð¸ÐºÐ¸ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡Ð½Ð¾
+TemplateCode=ÐšÐ¾Ð´ ÑˆÐ°Ð±Ð»Ð¾Ð½Ð°
+DuplicateTemplateName=Ð¨Ð°Ð±Ð»Ð¾Ð½ Ð· Ñ–Ð¼'ÑÐ¼ "%s" Ð²Ð¶Ðµ Ñ–ÑÐ½ÑƒÑ”
 
 ; Welcome window
-EmptyScript=Ñòâîðèòè íîâèé &ïîðîæí³é ôàéë ñöåíàð³þ
-WizardScript=Ñòâîðèòè íîâèé ñöåíàð³é ç &Ìàéñòðîì ñöåíàð³¿â
-OpenExistingFile=Â³äêðèòè ³ñíó&þ÷èé ôàéë ç ñöåíàð³ºì
-MoreFiles=Á³ëüøå ôàéë³â ...
-NoShowSartup=&Íå ïîêàçóâàòè öåé ä³àëîã çíîâó
+EmptyScript=Ð¡Ñ‚Ð²Ð¾Ñ€Ð¸Ñ‚Ð¸ Ð½Ð¾Ð²Ð¸Ð¹ &Ð¿Ð¾Ñ€Ð¾Ð¶Ð½Ñ–Ð¹ Ñ„Ð°Ð¹Ð» ÑÑ†ÐµÐ½Ð°Ñ€Ñ–ÑŽ
+WizardScript=Ð¡Ñ‚Ð²Ð¾Ñ€Ð¸Ñ‚Ð¸ Ð½Ð¾Ð²Ð¸Ð¹ ÑÑ†ÐµÐ½Ð°Ñ€Ñ–Ð¹ Ð· &ÐœÐ°Ð¹ÑÑ‚Ñ€Ð¾Ð¼ ÑÑ†ÐµÐ½Ð°Ñ€Ñ–Ñ—Ð²
+OpenExistingFile=Ð’Ñ–Ð´ÐºÑ€Ð¸Ñ‚Ð¸ Ñ–ÑÐ½Ñƒ&ÑŽÑ‡Ð¸Ð¹ Ñ„Ð°Ð¹Ð» Ð· ÑÑ†ÐµÐ½Ð°Ñ€Ñ–Ñ”Ð¼
+MoreFiles=Ð‘Ñ–Ð»ÑŒÑˆÐµ Ñ„Ð°Ð¹Ð»Ñ–Ð² ...
+NoShowSartup=&ÐÐµ Ð¿Ð¾ÐºÐ°Ð·ÑƒÐ²Ð°Ñ‚Ð¸ Ñ†ÐµÐ¹ Ð´Ñ–Ð°Ð»Ð¾Ð³ Ð·Ð½Ð¾Ð²Ñƒ
 
 ; Filter editor
-EditFilterCaption=Ðåäàãóéòå ô³ëüòð
-FilterDescription=Îïèñ ô³ëüòðà:
-Filter=Ô³ëüòð:
-AddFilter=&Äîäàòè
-RemoveFilter=&Âèäàëèòè
+EditFilterCaption=Ð ÐµÐ´Ð°Ð³ÑƒÐ¹Ñ‚Ðµ Ñ„Ñ–Ð»ÑŒÑ‚Ñ€
+FilterDescription=ÐžÐ¿Ð¸Ñ Ñ„Ñ–Ð»ÑŒÑ‚Ñ€Ð°:
+Filter=Ð¤Ñ–Ð»ÑŒÑ‚Ñ€:
+AddFilter=&Ð”Ð¾Ð´Ð°Ñ‚Ð¸
+RemoveFilter=&Ð’Ð¸Ð´Ð°Ð»Ð¸Ñ‚Ð¸
 
 
 ; Messages
-FileModified=Ôàéë "%s" áóâ îíîâëåíèé ççîâí³. Ïåðåçàâàíòàæèòè éîãî?
-NoCompiler=Ïåðåä êîìï³ëÿö³ºþ ñöåíàð³þ âèáåð³òü êîìï³ëÿòîð NSIS
-NoDocs=Ïåðåä òèì, ÿê çíàéîìèòèñÿ ç ðîçøèðåíîþ äîêóìåíòàö³ºþ íà NSIS, ïðîãëÿíüòå ôàéë äîïîìîãè ïî NSIS
-OpenFileError=Íåìîæëèâî â³äêðèòè ôàéë %s
-NoCloseCompiling=Ó òîé ÷àñ ïîêè êîìï³ëþºòüñÿ ñöåíàð³é âèõ³ä íåìîæëèâèé$nlDo you want to stop the compiler?
-Untitled=Áåç_íàçâè %.2d
-EditTextCaption=Ðåäàãóâàòè òåêñò
-EditListitemsCaption=Ðåäàãóâàòè åëåìåíòè ñïèñêó
+FileModified=Ð¤Ð°Ð¹Ð» "%s" Ð±ÑƒÐ² Ð¾Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ð¹ Ð·Ð·Ð¾Ð²Ð½Ñ–. ÐŸÐµÑ€ÐµÐ·Ð°Ð²Ð°Ð½Ñ‚Ð°Ð¶Ð¸Ñ‚Ð¸ Ð¹Ð¾Ð³Ð¾?
+NoCompiler=ÐŸÐµÑ€ÐµÐ´ ÐºÐ¾Ð¼Ð¿Ñ–Ð»ÑÑ†Ñ–Ñ”ÑŽ ÑÑ†ÐµÐ½Ð°Ñ€Ñ–ÑŽ Ð²Ð¸Ð±ÐµÑ€Ñ–Ñ‚ÑŒ ÐºÐ¾Ð¼Ð¿Ñ–Ð»ÑÑ‚Ð¾Ñ€ NSIS
+NoDocs=ÐŸÐµÑ€ÐµÐ´ Ñ‚Ð¸Ð¼, ÑÐº Ð·Ð½Ð°Ð¹Ð¾Ð¼Ð¸Ñ‚Ð¸ÑÑ Ð· Ñ€Ð¾Ð·ÑˆÐ¸Ñ€ÐµÐ½Ð¾ÑŽ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð°Ñ†Ñ–Ñ”ÑŽ Ð½Ð° NSIS, Ð¿Ñ€Ð¾Ð³Ð»ÑÐ½ÑŒÑ‚Ðµ Ñ„Ð°Ð¹Ð» Ð´Ð¾Ð¿Ð¾Ð¼Ð¾Ð³Ð¸ Ð¿Ð¾ NSIS
+OpenFileError=ÐÐµÐ¼Ð¾Ð¶Ð»Ð¸Ð²Ð¾ Ð²Ñ–Ð´ÐºÑ€Ð¸Ñ‚Ð¸ Ñ„Ð°Ð¹Ð» %s
+NoCloseCompiling=Ð£ Ñ‚Ð¾Ð¹ Ñ‡Ð°Ñ Ð¿Ð¾ÐºÐ¸ ÐºÐ¾Ð¼Ð¿Ñ–Ð»ÑŽÑ”Ñ‚ÑŒÑÑ ÑÑ†ÐµÐ½Ð°Ñ€Ñ–Ð¹ Ð²Ð¸Ñ…Ñ–Ð´ Ð½ÐµÐ¼Ð¾Ð¶Ð»Ð¸Ð²Ð¸Ð¹$nlDo you want to stop the compiler?
+Untitled=Ð‘ÐµÐ·_Ð½Ð°Ð·Ð²Ð¸ %.2d
+EditTextCaption=Ð ÐµÐ´Ð°Ð³ÑƒÐ²Ð°Ñ‚Ð¸ Ñ‚ÐµÐºÑÑ‚
+EditListitemsCaption=Ð ÐµÐ´Ð°Ð³ÑƒÐ²Ð°Ñ‚Ð¸ ÐµÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¸ ÑÐ¿Ð¸ÑÐºÑƒ
 n_StopCompilePrompt=Are you sure you want to stop the compiler?
 n_CompileCanceled=Compilation canceled by user.
 
 
 ; -------- WIZARD -----------
-EditFile=Ðåäàãóâàííÿ çàïèñó
-EditFileCaption=Ðåäàãóâàòè çàïèñ
-EditGroup=Ðåäàãóâàòè ãðóïó
-EditLink=Ðåäàãóâàííÿ ÿðëèêà
-EditLinkCaption=Ðåäàãóâàòè ÿðëèê
-FileColumn=Ôàéë
-FilelLnkColumn=ßðëèê
-FilesSubTitle=Áóäü ëàñêà âêàæ³òü ôàéëè, âêëþ÷åí³ ó Âàø äîäàòîê.
-FilesTitle=Ôàéëè äîäàòêó
-AddFiles=&Äîäàòè ôàéë
-AddLink=Íîâèé ÿðëèê
-AppInfoSubTitle=Áóäü ëàñêà âêàæ³òü äåÿêó ³íôîðìàö³þ ó Âàø³é ïðîãðàì³.
-AppInfoTitle=²íôîðìàö³ÿ ïðî ïðîãðàìó
-AppName=&²ì'ÿ ïðîãðàìè:
-AppPublisher=&Àâòîð ïðîãðàìè:
-AppVersion=&Âåðñ³ÿ ïðîãðàìè:
-AppWeb=Ñàéò &ïðîãðàìè:
-ChangeInstallDir=Äîçâîëèòè êîðèñòóâà÷ó &âèá³ð äèðåòîðèè äëÿ óñòàíîâêè äîäàòêó
-ChangeStartMenuDir=Äîçâîëèòè êîðèñòóâà÷ó &èçìåíÿòü èìÿ äèðåêòîðèè â ìåíþ Ñòàðò
-ComponentText=Â³äçíà÷òå ò³ êîìïîíåíòè, ÿê³ Âè áàæàºòå âñòàíîâèòè, ³ çí³ì³òü â³äì³òêó äëÿ òèõ, ÿê³ Âè âñòàíîâëþâàòè íå áàæàºòå.
-CompScript=Ê&îìï³ëþâàòè ñöåíàð³é
-Compress=Ñ&òèñíåííÿ:
+EditFile=Ð ÐµÐ´Ð°Ð³ÑƒÐ²Ð°Ð½Ð½Ñ Ð·Ð°Ð¿Ð¸ÑÑƒ
+EditFileCaption=Ð ÐµÐ´Ð°Ð³ÑƒÐ²Ð°Ñ‚Ð¸ Ð·Ð°Ð¿Ð¸Ñ
+EditGroup=Ð ÐµÐ´Ð°Ð³ÑƒÐ²Ð°Ñ‚Ð¸ Ð³Ñ€ÑƒÐ¿Ñƒ
+EditLink=Ð ÐµÐ´Ð°Ð³ÑƒÐ²Ð°Ð½Ð½Ñ ÑÑ€Ð»Ð¸ÐºÐ°
+EditLinkCaption=Ð ÐµÐ´Ð°Ð³ÑƒÐ²Ð°Ñ‚Ð¸ ÑÑ€Ð»Ð¸Ðº
+FileColumn=Ð¤Ð°Ð¹Ð»
+FilelLnkColumn=Ð¯Ñ€Ð»Ð¸Ðº
+FilesSubTitle=Ð‘ÑƒÐ´ÑŒ Ð»Ð°ÑÐºÐ° Ð²ÐºÐ°Ð¶Ñ–Ñ‚ÑŒ Ñ„Ð°Ð¹Ð»Ð¸, Ð²ÐºÐ»ÑŽÑ‡ÐµÐ½Ñ– Ñƒ Ð’Ð°Ñˆ Ð´Ð¾Ð´Ð°Ñ‚Ð¾Ðº.
+FilesTitle=Ð¤Ð°Ð¹Ð»Ð¸ Ð´Ð¾Ð´Ð°Ñ‚ÐºÑƒ
+AddFiles=&Ð”Ð¾Ð´Ð°Ñ‚Ð¸ Ñ„Ð°Ð¹Ð»
+AddLink=ÐÐ¾Ð²Ð¸Ð¹ ÑÑ€Ð»Ð¸Ðº
+AppInfoSubTitle=Ð‘ÑƒÐ´ÑŒ Ð»Ð°ÑÐºÐ° Ð²ÐºÐ°Ð¶Ñ–Ñ‚ÑŒ Ð´ÐµÑÐºÑƒ Ñ–Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ñ–ÑŽ Ñƒ Ð’Ð°ÑˆÑ–Ð¹ Ð¿Ñ€Ð¾Ð³Ñ€Ð°Ð¼Ñ–.
+AppInfoTitle=Ð†Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ñ–Ñ Ð¿Ñ€Ð¾ Ð¿Ñ€Ð¾Ð³Ñ€Ð°Ð¼Ñƒ
+AppName=&Ð†Ð¼'Ñ Ð¿Ñ€Ð¾Ð³Ñ€Ð°Ð¼Ð¸:
+AppPublisher=&ÐÐ²Ñ‚Ð¾Ñ€ Ð¿Ñ€Ð¾Ð³Ñ€Ð°Ð¼Ð¸:
+AppVersion=&Ð’ÐµÑ€ÑÑ–Ñ Ð¿Ñ€Ð¾Ð³Ñ€Ð°Ð¼Ð¸:
+AppWeb=Ð¡Ð°Ð¹Ñ‚ &Ð¿Ñ€Ð¾Ð³Ñ€Ð°Ð¼Ð¸:
+ChangeInstallDir=Ð”Ð¾Ð·Ð²Ð¾Ð»Ð¸Ñ‚Ð¸ ÐºÐ¾Ñ€Ð¸ÑÑ‚ÑƒÐ²Ð°Ñ‡Ñƒ &Ð²Ð¸Ð±Ñ–Ñ€ Ð´Ð¸Ñ€ÐµÑ‚Ð¾Ñ€Ð¸Ð¸ Ð´Ð»Ñ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ¸ Ð´Ð¾Ð´Ð°Ñ‚ÐºÑƒ
+ChangeStartMenuDir=Ð”Ð¾Ð·Ð²Ð¾Ð»Ð¸Ñ‚Ð¸ ÐºÐ¾Ñ€Ð¸ÑÑ‚ÑƒÐ²Ð°Ñ‡Ñƒ &Ð¸Ð·Ð¼ÐµÐ½ÑÑ‚ÑŒ Ð¸Ð¼Ñ Ð´Ð¸Ñ€ÐµÐºÑ‚Ð¾Ñ€Ð¸Ð¸ Ð² Ð¼ÐµÐ½ÑŽ Ð¡Ñ‚Ð°Ñ€Ñ‚
+ComponentText=Ð’Ñ–Ð´Ð·Ð½Ð°Ñ‡Ñ‚Ðµ Ñ‚Ñ– ÐºÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚Ð¸, ÑÐºÑ– Ð’Ð¸ Ð±Ð°Ð¶Ð°Ñ”Ñ‚Ðµ Ð²ÑÑ‚Ð°Ð½Ð¾Ð²Ð¸Ñ‚Ð¸, Ñ– Ð·Ð½Ñ–Ð¼Ñ–Ñ‚ÑŒ Ð²Ñ–Ð´Ð¼Ñ–Ñ‚ÐºÑƒ Ð´Ð»Ñ Ñ‚Ð¸Ñ…, ÑÐºÑ– Ð’Ð¸ Ð²ÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÑŽÐ²Ð°Ñ‚Ð¸ Ð½Ðµ Ð±Ð°Ð¶Ð°Ñ”Ñ‚Ðµ.
+CompScript=Ðš&Ð¾Ð¼Ð¿Ñ–Ð»ÑŽÐ²Ð°Ñ‚Ð¸ ÑÑ†ÐµÐ½Ð°Ñ€Ñ–Ð¹
+Compress=Ð¡&Ñ‚Ð¸ÑÐ½ÐµÐ½Ð½Ñ:
 CompressBZip2=bzip2
-CompressNone=Íåìàº
+CompressNone=ÐÐµÐ¼Ð°Ñ”
 CompressZLib=zlib
 CompressLZMA=LZMA
-ConfigCaption=Íàñòðîéêà
-CreateUninstallIcon=Ñòâîðèòè ÿðëèê &âèäàëåííÿ ïðîãðàìè â ìåíþ Ñòàðò
-CreateWebIcon=Ñòâîðèòè ÿðëèê íà &www-ðåñóðñ ïðîãðàìè â ìåíþ Ñòàðò
-DefaultAppName=Ìîÿ ïðîãðàìà
-DefaultAppPublisher=Ìîÿ êîìïàí³ÿ, LLC.
+ConfigCaption=ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ°
+CreateUninstallIcon=Ð¡Ñ‚Ð²Ð¾Ñ€Ð¸Ñ‚Ð¸ ÑÑ€Ð»Ð¸Ðº &Ð²Ð¸Ð´Ð°Ð»ÐµÐ½Ð½Ñ Ð¿Ñ€Ð¾Ð³Ñ€Ð°Ð¼Ð¸ Ð² Ð¼ÐµÐ½ÑŽ Ð¡Ñ‚Ð°Ñ€Ñ‚
+CreateWebIcon=Ð¡Ñ‚Ð²Ð¾Ñ€Ð¸Ñ‚Ð¸ ÑÑ€Ð»Ð¸Ðº Ð½Ð° &www-Ñ€ÐµÑÑƒÑ€Ñ Ð¿Ñ€Ð¾Ð³Ñ€Ð°Ð¼Ð¸ Ð² Ð¼ÐµÐ½ÑŽ Ð¡Ñ‚Ð°Ñ€Ñ‚
+DefaultAppName=ÐœÐ¾Ñ Ð¿Ñ€Ð¾Ð³Ñ€Ð°Ð¼Ð°
+DefaultAppPublisher=ÐœÐ¾Ñ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ñ–Ñ, LLC.
 DefaultAppVersion=1.0
 DefaultAppWeb=http://www.mycompany.com
 DefaultCompress=zlib
 DefaultExeInst=setup.exe
-DefaultGUI=Ìîäåðí
+DefaultGUI=ÐœÐ¾Ð´ÐµÑ€Ð½
 DefaultGroup=MainGroup
 DefaultInstallIcon=${NSISDIR}\Contrib\Graphics\Icons\modern-install.ico
 DefaultLFS=Classic button
 DefaultLangInst=Ukrainian
-DefaultUninstPrompt=Âè óïåâíåí³, â òîì, ùî áàæàºòå âèäàëèòè [NAME] ³ âñ³ éîãî êîìïîíåíòè?
-DefaultUninstSuccesMsg=Âèäàëåííÿ ïðîãðàìè [NAME] áóëî óñï³øíå çàâåðøåíî.
+DefaultUninstPrompt=Ð’Ð¸ ÑƒÐ¿ÐµÐ²Ð½ÐµÐ½Ñ–, Ð² Ñ‚Ð¾Ð¼, Ñ‰Ð¾ Ð±Ð°Ð¶Ð°Ñ”Ñ‚Ðµ Ð²Ð¸Ð´Ð°Ð»Ð¸Ñ‚Ð¸ [NAME] Ñ– Ð²ÑÑ– Ð¹Ð¾Ð³Ð¾ ÐºÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚Ð¸?
+DefaultUninstSuccesMsg=Ð’Ð¸Ð´Ð°Ð»ÐµÐ½Ð½Ñ Ð¿Ñ€Ð¾Ð³Ñ€Ð°Ð¼Ð¸ [NAME] Ð±ÑƒÐ»Ð¾ ÑƒÑÐ¿Ñ–ÑˆÐ½Ðµ Ð·Ð°Ð²ÐµÑ€ÑˆÐµÐ½Ð¾.
 DefaultUninstallIcon=${NSISDIR}\Contrib\Graphics\Icons\modern-uninstall.ico
 DefaultWizardFiles=c:\path\to\file\AppMainExe.exe|$INSTDIR;c:\path\to\file\Example.file|$INSTDIR
 DefaultWizardLicFile=c:\path\to\licence\YourSoftwareLicence.txt
 DefaultWizardSections=MainSection
-DeleteFile=&Âèäàëèòè ôàéë
-DeleteGroup=Âèäàëèòè ãðóïó
-DeleteLink=Âèäàëèòè ÿðëèê
-Description=&Îïèñ
-Dest=&Ïðèçíà÷åííÿ:
-DirDest=&Äèðåêòîð³ÿ ïðèçíà÷åííÿ:
-DirDestColumn=Âèá³ð äèðåêòîð³¿ óñòàíîâêè
-DirText=Ïðîãðàìà óñòàíîâêè âñòàíîâèòü [NAME] ó âêàçàíó äèðåêòîð³þ.$\r$\n$\r$\nÄëÿ òîãî, ùîá âñòàíîâèòè ïðîãðàìó â ³íøó äèðåêòîð³þ, íàòèñêóéòå Îãëÿä ³ âêàæ³òü äèðåêòîð³þ ùî âèìàãàºòüñÿ.
-ExeInst=&Ôàéë óñòàíîâêè:
-ExecFinishSubTitle=Áóäü ëàñêà âêàæ³òü ä³¿ ï³ñëÿ çàâåðøåííÿ ïðîöåñó óñòàíîâêè
-ExecFinishTitle=Çàïóñòèòè ï³ñëÿ óñòàíîâêè
-ExecProgram=&Äîäàòîê:
-ExecProgramParams=Ï&àðàìåòðb:
-ExecReadme=Ïð&î ïðîãðàìó:
-ExitWizardPrompt=Ìàéñòåð ñòâîðåííÿ ñöåíàð³é NSIS íå çàâåðøåíèé. ßêùî Âè âèéäåòå çàðàç, íîâèé ñöåíàð³é íå áóäå ñòâîðåíèé.$nl$nlÂèéòè ç Ìàéñòðà NSIS?
-FinishLabel1=Ìàéñòåð çàâåðøåíèé
-FinishLabel2=Âè óñï³øíî çàâåðøèëè Ìàéñòåð.
-FinishLabel3=Ùîá çàêðèòè Ìàéñòåð ³ ñòâîðèòè ôàéë ñöåíàð³þ, íàòèñêóéòå Çàâåðøèòè.
-GUI=Îáîëîíêà:
-GUIClassic=Êëàñèêà
-GUIModern=Ìîäåðí
-GUINone=Íåìàº
-IconsSubTitle=Áóäü ëàñêà âêàæ³òü ÿê³ ³êîíêè ïîâèíí³ áóòè ñòâîðåí³ äëÿ Âàøîãî äîäàòêó.
-IconsTitle=²êîíêè äîäàòêó
-IfFileExists=&ßêùî ôàéë ³ñíóº
-InsertFileCaption=Ââåä³òü ³ì'ÿ ôàéëà
-InstallDir=&Äèðåêòîð³ÿ äîäàòêó çà óìîâ÷àííÿì:
-InstallIcon=&²êîíà óñòàíîâêè:
-LFSCheckBox=×åêáîêñ
-LFSRadioButtons=Ðàä³îáóòòîí
-LangInst=&Íàñòðîéêà ìîâè:
-LicenceFile=&Ôàéë ë³öåíç³¿
-LicenceSubTitle=Áóäü ëàñêà âêàæ³òü äèðåêòîð³þ ³ ë³öåíç³éíó ³íôîðìàö³þ äëÿ Âàøî¿ óñòàíîâêè.
-LicenceTitle=Äèðåêòîð³ÿ äîäàòêó ³ ë³öåíç³ÿ
-LicenseForceSelection=Âèáåð³òü ÿê êîðèñòóâà÷ ïîâèíåí ïðèéìàòè ë³öåíç³éíó óãîäó 
-LicenseText=ßêùî Âè ïðèéìàºòå óìîâè ë³öåíç³éíî¿ óãîäè, íàòèñêóéòå íà êíîïêó Çãîäåí. Âè ïîâèíí³ ïðèéíÿòè óìîâè óãîäè äëÿ óñòàíîâêè [NAME]
-LinkDestColumn=Âñòíîâëþºìèé ôàéë
-ModifyName=Çì³íèòè ³ì'ÿ
-ModifyNamePrompt=Çàïèñàòè ÿêùî ³ì'ÿ ãðóïè:
-NewFile=Íîâèé ôàéë
-NewFileCaption=Íîâèé ôàéë
-NewGroup=Íîâà ãðóïà
-NewGroupPrompt=Çàïèñàòè êîëè ³ì'ÿ ãðóïè
-NoAppName=Áóäü ëàñêà âêàæ³òü ³ì'ÿ äîäàòêó.
-NoCompress=Áóäü ëàñêà âêàæ³òü òèï ñòèñíåííÿ
-NoDir=Áóäü ëàñêà âêàæ³òü äèðåêòîð³þ çà óìîâ÷àííÿì.
-NoExeInst=Áóäü ëàñêà âêàæ³òü ³ì'ÿ ôàéëà óñòàíîâêè.
-NoFoundText="%s" íå çíàéäåíî.
-NoGUI=Áóäü ëàñêà âêàæ³òü òèï ãðàô³÷íî¿ îáîëîíêè.
-NoLFS=Êëàñè÷í³ êíîïêè
-NoLang=Áóäü ëàñêà âêàæ³òü ìîâó óñòàíîâêè.
-NoLinkName=Áóäü ëàñêà âêàæ³òü ³ì'ÿ ÿðëèêà.
-NoSymbolName=Áóäü ëàñêà âêàæ³òü ³ì'ÿ ñèìâîëó
-NoSymbolSpaces=Íå âèêîðèñòîâóéòå ïðîïóñêè â ³ìåíàõ ñèìâîë³â
-NoValidIOControl="%s" íå º ä³éñíèì êîìïîíåíòîì íàñòðîéîê óñòàíîâêè
-NoValidIOIni="%s" íå º ä³éñíèì ôàéëîì íàñòðîéîê óñòàíîâêè
-NoVersion=Áóäü ëàñêà âêàæ³òü âåðñ³þ äîäàòêó.
-OptionsSubTitle=Áóäü ëàñêà âêàæ³òü íàñòðîéêè äëÿ Âàøî¿ óñòàíîâêè.
-OptionsTitle=Íàñòðîéêè óñòàíîâêè
-OrgDile=&Ïî÷àòêîâèé ôàéë:
-OverwriteIfNewer=Ïåðåïèñàòè ÿêùî íîâ³øå
-OverwriteOff=Í³êîëè íå ïåðåïèñóâàòè
-OverwriteOn=Çàâæäè ïåðåïèñóâàòè
-OverwriteTry=Ñïðîáóâàòè ïåðåïèñàòè
-RelativePaths=&Êîíâåðòóâàòè ïîâí³ øëÿõè äî ôàéë³â ó â³äíîñí³
-SaveChanges=Âè áàæàºòå çáåðåãòè çì³íè ó ôàéë³ "%s"?
-SaveScript=&Çáåðåãòè ñöåíàð³é
-SelectInstallComponents=&Äîçâîëèòè êîðèñòóâà÷ó âèá³ð êîìïîíåíò³â äëÿ óñòàíîâêè
-SelectModeMenu=Ðåæèì âèä³ëåííÿ
-ShortCut=&ßðëèê:
-StartMenuDir=²ì'ÿ äèðåêòîð³¿ â ìåíþ &Ñòàðò äëÿ äîäàòêó
-StartupCaption=Ëàñêàâî ïðîñèìî
-UninstPrompt=&Çàïèò íà âèäàëåííÿ:
-UninstSuccesMsg=Ïîâ³äîìëåííÿ ïðè óñï³øíîìó çàâåðøåíí³ âèäàëåííÿ:
-UninstallIcon=Çíà÷îê äå³íñòàëÿòîðà:
-UninstallSubTitle=Áóäü ëàñêà âêàæ³òü àòðèáóòè äå³íñòàëÿòîðà.
-UninstallTitle=Äå³íñòàëÿòîð
-UseUninstaller=Âèêîðèñòîâóâàòè äå³íñòàëÿòîð
-WelcomeLabel1=Ëàñêàâî ïðîñèìî â Ìàéñòåð ñöåíàð³é NSIS
-WelcomeLabel2=Öåé ìàéñòåð äîçâîëèòü Âàì øâèäêî ³ ëåãêî ñòâîðèòè ñöåíàð³é äëÿ ³íñòàëëåðà NSIS. Ñöåíàð³é ìîæå áóòè âèêîðèñòàíèé äëÿ ñòâîðåííÿ ôàéëà, ÿêèé ìîæå áóòè â³äêîìï³ëþâàíèé àáî çáåðåæåíèé. 
-WelcomeLabel3=Ïàì'ÿòàéòå, ùî íå âñ³ ìîæëèâîñò³ Nullsoft Install System äîñòóïí³ ÷åðåç öåé Ìàéñòåð. Ïðî÷èòàéòå äîêóìåíòàö³þ íà Nullsoft Install System äëÿ äåòàëüíî¿ ³íôîðìàö³¿.
-WelcomeLabel4=Íàòèñêóéòå Äàë³ ùîá ïðîäîâæèòè, àáî Â³äì³íà äëÿ âèõîäó ç Ìàéñòðà.
-WizardCaption=Ìàéñòåð ñöåíàð³é NSIS
+DeleteFile=&Ð’Ð¸Ð´Ð°Ð»Ð¸Ñ‚Ð¸ Ñ„Ð°Ð¹Ð»
+DeleteGroup=Ð’Ð¸Ð´Ð°Ð»Ð¸Ñ‚Ð¸ Ð³Ñ€ÑƒÐ¿Ñƒ
+DeleteLink=Ð’Ð¸Ð´Ð°Ð»Ð¸Ñ‚Ð¸ ÑÑ€Ð»Ð¸Ðº
+Description=&ÐžÐ¿Ð¸Ñ
+Dest=&ÐŸÑ€Ð¸Ð·Ð½Ð°Ñ‡ÐµÐ½Ð½Ñ:
+DirDest=&Ð”Ð¸Ñ€ÐµÐºÑ‚Ð¾Ñ€Ñ–Ñ Ð¿Ñ€Ð¸Ð·Ð½Ð°Ñ‡ÐµÐ½Ð½Ñ:
+DirDestColumn=Ð’Ð¸Ð±Ñ–Ñ€ Ð´Ð¸Ñ€ÐµÐºÑ‚Ð¾Ñ€Ñ–Ñ— ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ¸
+DirText=ÐŸÑ€Ð¾Ð³Ñ€Ð°Ð¼Ð° ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ¸ Ð²ÑÑ‚Ð°Ð½Ð¾Ð²Ð¸Ñ‚ÑŒ [NAME] Ñƒ Ð²ÐºÐ°Ð·Ð°Ð½Ñƒ Ð´Ð¸Ñ€ÐµÐºÑ‚Ð¾Ñ€Ñ–ÑŽ.$\r$\n$\r$\nÐ”Ð»Ñ Ñ‚Ð¾Ð³Ð¾, Ñ‰Ð¾Ð± Ð²ÑÑ‚Ð°Ð½Ð¾Ð²Ð¸Ñ‚Ð¸ Ð¿Ñ€Ð¾Ð³Ñ€Ð°Ð¼Ñƒ Ð² Ñ–Ð½ÑˆÑƒ Ð´Ð¸Ñ€ÐµÐºÑ‚Ð¾Ñ€Ñ–ÑŽ, Ð½Ð°Ñ‚Ð¸ÑÐºÑƒÐ¹Ñ‚Ðµ ÐžÐ³Ð»ÑÐ´ Ñ– Ð²ÐºÐ°Ð¶Ñ–Ñ‚ÑŒ Ð´Ð¸Ñ€ÐµÐºÑ‚Ð¾Ñ€Ñ–ÑŽ Ñ‰Ð¾ Ð²Ð¸Ð¼Ð°Ð³Ð°Ñ”Ñ‚ÑŒÑÑ.
+ExeInst=&Ð¤Ð°Ð¹Ð» ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ¸:
+ExecFinishSubTitle=Ð‘ÑƒÐ´ÑŒ Ð»Ð°ÑÐºÐ° Ð²ÐºÐ°Ð¶Ñ–Ñ‚ÑŒ Ð´Ñ–Ñ— Ð¿Ñ–ÑÐ»Ñ Ð·Ð°Ð²ÐµÑ€ÑˆÐµÐ½Ð½Ñ Ð¿Ñ€Ð¾Ñ†ÐµÑÑƒ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ¸
+ExecFinishTitle=Ð—Ð°Ð¿ÑƒÑÑ‚Ð¸Ñ‚Ð¸ Ð¿Ñ–ÑÐ»Ñ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ¸
+ExecProgram=&Ð”Ð¾Ð´Ð°Ñ‚Ð¾Ðº:
+ExecProgramParams=ÐŸ&Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€b:
+ExecReadme=ÐŸÑ€&Ð¾ Ð¿Ñ€Ð¾Ð³Ñ€Ð°Ð¼Ñƒ:
+ExitWizardPrompt=ÐœÐ°Ð¹ÑÑ‚ÐµÑ€ ÑÑ‚Ð²Ð¾Ñ€ÐµÐ½Ð½Ñ ÑÑ†ÐµÐ½Ð°Ñ€Ñ–Ð¹ NSIS Ð½Ðµ Ð·Ð°Ð²ÐµÑ€ÑˆÐµÐ½Ð¸Ð¹. Ð¯ÐºÑ‰Ð¾ Ð’Ð¸ Ð²Ð¸Ð¹Ð´ÐµÑ‚Ðµ Ð·Ð°Ñ€Ð°Ð·, Ð½Ð¾Ð²Ð¸Ð¹ ÑÑ†ÐµÐ½Ð°Ñ€Ñ–Ð¹ Ð½Ðµ Ð±ÑƒÐ´Ðµ ÑÑ‚Ð²Ð¾Ñ€ÐµÐ½Ð¸Ð¹.$nl$nlÐ’Ð¸Ð¹Ñ‚Ð¸ Ð· ÐœÐ°Ð¹ÑÑ‚Ñ€Ð° NSIS?
+FinishLabel1=ÐœÐ°Ð¹ÑÑ‚ÐµÑ€ Ð·Ð°Ð²ÐµÑ€ÑˆÐµÐ½Ð¸Ð¹
+FinishLabel2=Ð’Ð¸ ÑƒÑÐ¿Ñ–ÑˆÐ½Ð¾ Ð·Ð°Ð²ÐµÑ€ÑˆÐ¸Ð»Ð¸ ÐœÐ°Ð¹ÑÑ‚ÐµÑ€.
+FinishLabel3=Ð©Ð¾Ð± Ð·Ð°ÐºÑ€Ð¸Ñ‚Ð¸ ÐœÐ°Ð¹ÑÑ‚ÐµÑ€ Ñ– ÑÑ‚Ð²Ð¾Ñ€Ð¸Ñ‚Ð¸ Ñ„Ð°Ð¹Ð» ÑÑ†ÐµÐ½Ð°Ñ€Ñ–ÑŽ, Ð½Ð°Ñ‚Ð¸ÑÐºÑƒÐ¹Ñ‚Ðµ Ð—Ð°Ð²ÐµÑ€ÑˆÐ¸Ñ‚Ð¸.
+GUI=ÐžÐ±Ð¾Ð»Ð¾Ð½ÐºÐ°:
+GUIClassic=ÐšÐ»Ð°ÑÐ¸ÐºÐ°
+GUIModern=ÐœÐ¾Ð´ÐµÑ€Ð½
+GUINone=ÐÐµÐ¼Ð°Ñ”
+IconsSubTitle=Ð‘ÑƒÐ´ÑŒ Ð»Ð°ÑÐºÐ° Ð²ÐºÐ°Ð¶Ñ–Ñ‚ÑŒ ÑÐºÑ– Ñ–ÐºÐ¾Ð½ÐºÐ¸ Ð¿Ð¾Ð²Ð¸Ð½Ð½Ñ– Ð±ÑƒÑ‚Ð¸ ÑÑ‚Ð²Ð¾Ñ€ÐµÐ½Ñ– Ð´Ð»Ñ Ð’Ð°ÑˆÐ¾Ð³Ð¾ Ð´Ð¾Ð´Ð°Ñ‚ÐºÑƒ.
+IconsTitle=Ð†ÐºÐ¾Ð½ÐºÐ¸ Ð´Ð¾Ð´Ð°Ñ‚ÐºÑƒ
+IfFileExists=&Ð¯ÐºÑ‰Ð¾ Ñ„Ð°Ð¹Ð» Ñ–ÑÐ½ÑƒÑ”
+InsertFileCaption=Ð’Ð²ÐµÐ´Ñ–Ñ‚ÑŒ Ñ–Ð¼'Ñ Ñ„Ð°Ð¹Ð»Ð°
+InstallDir=&Ð”Ð¸Ñ€ÐµÐºÑ‚Ð¾Ñ€Ñ–Ñ Ð´Ð¾Ð´Ð°Ñ‚ÐºÑƒ Ð·Ð° ÑƒÐ¼Ð¾Ð²Ñ‡Ð°Ð½Ð½ÑÐ¼:
+InstallIcon=&Ð†ÐºÐ¾Ð½Ð° ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ¸:
+LFSCheckBox=Ð§ÐµÐºÐ±Ð¾ÐºÑ
+LFSRadioButtons=Ð Ð°Ð´Ñ–Ð¾Ð±ÑƒÑ‚Ñ‚Ð¾Ð½
+LangInst=&ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° Ð¼Ð¾Ð²Ð¸:
+LicenceFile=&Ð¤Ð°Ð¹Ð» Ð»Ñ–Ñ†ÐµÐ½Ð·Ñ–Ñ—
+LicenceSubTitle=Ð‘ÑƒÐ´ÑŒ Ð»Ð°ÑÐºÐ° Ð²ÐºÐ°Ð¶Ñ–Ñ‚ÑŒ Ð´Ð¸Ñ€ÐµÐºÑ‚Ð¾Ñ€Ñ–ÑŽ Ñ– Ð»Ñ–Ñ†ÐµÐ½Ð·Ñ–Ð¹Ð½Ñƒ Ñ–Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ñ–ÑŽ Ð´Ð»Ñ Ð’Ð°ÑˆÐ¾Ñ— ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ¸.
+LicenceTitle=Ð”Ð¸Ñ€ÐµÐºÑ‚Ð¾Ñ€Ñ–Ñ Ð´Ð¾Ð´Ð°Ñ‚ÐºÑƒ Ñ– Ð»Ñ–Ñ†ÐµÐ½Ð·Ñ–Ñ
+LicenseForceSelection=Ð’Ð¸Ð±ÐµÑ€Ñ–Ñ‚ÑŒ ÑÐº ÐºÐ¾Ñ€Ð¸ÑÑ‚ÑƒÐ²Ð°Ñ‡ Ð¿Ð¾Ð²Ð¸Ð½ÐµÐ½ Ð¿Ñ€Ð¸Ð¹Ð¼Ð°Ñ‚Ð¸ Ð»Ñ–Ñ†ÐµÐ½Ð·Ñ–Ð¹Ð½Ñƒ ÑƒÐ³Ð¾Ð´Ñƒ 
+LicenseText=Ð¯ÐºÑ‰Ð¾ Ð’Ð¸ Ð¿Ñ€Ð¸Ð¹Ð¼Ð°Ñ”Ñ‚Ðµ ÑƒÐ¼Ð¾Ð²Ð¸ Ð»Ñ–Ñ†ÐµÐ½Ð·Ñ–Ð¹Ð½Ð¾Ñ— ÑƒÐ³Ð¾Ð´Ð¸, Ð½Ð°Ñ‚Ð¸ÑÐºÑƒÐ¹Ñ‚Ðµ Ð½Ð° ÐºÐ½Ð¾Ð¿ÐºÑƒ Ð—Ð³Ð¾Ð´ÐµÐ½. Ð’Ð¸ Ð¿Ð¾Ð²Ð¸Ð½Ð½Ñ– Ð¿Ñ€Ð¸Ð¹Ð½ÑÑ‚Ð¸ ÑƒÐ¼Ð¾Ð²Ð¸ ÑƒÐ³Ð¾Ð´Ð¸ Ð´Ð»Ñ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ¸ [NAME]
+LinkDestColumn=Ð’ÑÑ‚Ð½Ð¾Ð²Ð»ÑŽÑ”Ð¼Ð¸Ð¹ Ñ„Ð°Ð¹Ð»
+ModifyName=Ð—Ð¼Ñ–Ð½Ð¸Ñ‚Ð¸ Ñ–Ð¼'Ñ
+ModifyNamePrompt=Ð—Ð°Ð¿Ð¸ÑÐ°Ñ‚Ð¸ ÑÐºÑ‰Ð¾ Ñ–Ð¼'Ñ Ð³Ñ€ÑƒÐ¿Ð¸:
+NewFile=ÐÐ¾Ð²Ð¸Ð¹ Ñ„Ð°Ð¹Ð»
+NewFileCaption=ÐÐ¾Ð²Ð¸Ð¹ Ñ„Ð°Ð¹Ð»
+NewGroup=ÐÐ¾Ð²Ð° Ð³Ñ€ÑƒÐ¿Ð°
+NewGroupPrompt=Ð—Ð°Ð¿Ð¸ÑÐ°Ñ‚Ð¸ ÐºÐ¾Ð»Ð¸ Ñ–Ð¼'Ñ Ð³Ñ€ÑƒÐ¿Ð¸
+NoAppName=Ð‘ÑƒÐ´ÑŒ Ð»Ð°ÑÐºÐ° Ð²ÐºÐ°Ð¶Ñ–Ñ‚ÑŒ Ñ–Ð¼'Ñ Ð´Ð¾Ð´Ð°Ñ‚ÐºÑƒ.
+NoCompress=Ð‘ÑƒÐ´ÑŒ Ð»Ð°ÑÐºÐ° Ð²ÐºÐ°Ð¶Ñ–Ñ‚ÑŒ Ñ‚Ð¸Ð¿ ÑÑ‚Ð¸ÑÐ½ÐµÐ½Ð½Ñ
+NoDir=Ð‘ÑƒÐ´ÑŒ Ð»Ð°ÑÐºÐ° Ð²ÐºÐ°Ð¶Ñ–Ñ‚ÑŒ Ð´Ð¸Ñ€ÐµÐºÑ‚Ð¾Ñ€Ñ–ÑŽ Ð·Ð° ÑƒÐ¼Ð¾Ð²Ñ‡Ð°Ð½Ð½ÑÐ¼.
+NoExeInst=Ð‘ÑƒÐ´ÑŒ Ð»Ð°ÑÐºÐ° Ð²ÐºÐ°Ð¶Ñ–Ñ‚ÑŒ Ñ–Ð¼'Ñ Ñ„Ð°Ð¹Ð»Ð° ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ¸.
+NoFoundText="%s" Ð½Ðµ Ð·Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾.
+NoGUI=Ð‘ÑƒÐ´ÑŒ Ð»Ð°ÑÐºÐ° Ð²ÐºÐ°Ð¶Ñ–Ñ‚ÑŒ Ñ‚Ð¸Ð¿ Ð³Ñ€Ð°Ñ„Ñ–Ñ‡Ð½Ð¾Ñ— Ð¾Ð±Ð¾Ð»Ð¾Ð½ÐºÐ¸.
+NoLFS=ÐšÐ»Ð°ÑÐ¸Ñ‡Ð½Ñ– ÐºÐ½Ð¾Ð¿ÐºÐ¸
+NoLang=Ð‘ÑƒÐ´ÑŒ Ð»Ð°ÑÐºÐ° Ð²ÐºÐ°Ð¶Ñ–Ñ‚ÑŒ Ð¼Ð¾Ð²Ñƒ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ¸.
+NoLinkName=Ð‘ÑƒÐ´ÑŒ Ð»Ð°ÑÐºÐ° Ð²ÐºÐ°Ð¶Ñ–Ñ‚ÑŒ Ñ–Ð¼'Ñ ÑÑ€Ð»Ð¸ÐºÐ°.
+NoSymbolName=Ð‘ÑƒÐ´ÑŒ Ð»Ð°ÑÐºÐ° Ð²ÐºÐ°Ð¶Ñ–Ñ‚ÑŒ Ñ–Ð¼'Ñ ÑÐ¸Ð¼Ð²Ð¾Ð»Ñƒ
+NoSymbolSpaces=ÐÐµ Ð²Ð¸ÐºÐ¾Ñ€Ð¸ÑÑ‚Ð¾Ð²ÑƒÐ¹Ñ‚Ðµ Ð¿Ñ€Ð¾Ð¿ÑƒÑÐºÐ¸ Ð² Ñ–Ð¼ÐµÐ½Ð°Ñ… ÑÐ¸Ð¼Ð²Ð¾Ð»Ñ–Ð²
+NoValidIOControl="%s" Ð½Ðµ Ñ” Ð´Ñ–Ð¹ÑÐ½Ð¸Ð¼ ÐºÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚Ð¾Ð¼ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹Ð¾Ðº ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ¸
+NoValidIOIni="%s" Ð½Ðµ Ñ” Ð´Ñ–Ð¹ÑÐ½Ð¸Ð¼ Ñ„Ð°Ð¹Ð»Ð¾Ð¼ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹Ð¾Ðº ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ¸
+NoVersion=Ð‘ÑƒÐ´ÑŒ Ð»Ð°ÑÐºÐ° Ð²ÐºÐ°Ð¶Ñ–Ñ‚ÑŒ Ð²ÐµÑ€ÑÑ–ÑŽ Ð´Ð¾Ð´Ð°Ñ‚ÐºÑƒ.
+OptionsSubTitle=Ð‘ÑƒÐ´ÑŒ Ð»Ð°ÑÐºÐ° Ð²ÐºÐ°Ð¶Ñ–Ñ‚ÑŒ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð´Ð»Ñ Ð’Ð°ÑˆÐ¾Ñ— ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ¸.
+OptionsTitle=ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ¸
+OrgDile=&ÐŸÐ¾Ñ‡Ð°Ñ‚ÐºÐ¾Ð²Ð¸Ð¹ Ñ„Ð°Ð¹Ð»:
+OverwriteIfNewer=ÐŸÐµÑ€ÐµÐ¿Ð¸ÑÐ°Ñ‚Ð¸ ÑÐºÑ‰Ð¾ Ð½Ð¾Ð²Ñ–ÑˆÐµ
+OverwriteOff=ÐÑ–ÐºÐ¾Ð»Ð¸ Ð½Ðµ Ð¿ÐµÑ€ÐµÐ¿Ð¸ÑÑƒÐ²Ð°Ñ‚Ð¸
+OverwriteOn=Ð—Ð°Ð²Ð¶Ð´Ð¸ Ð¿ÐµÑ€ÐµÐ¿Ð¸ÑÑƒÐ²Ð°Ñ‚Ð¸
+OverwriteTry=Ð¡Ð¿Ñ€Ð¾Ð±ÑƒÐ²Ð°Ñ‚Ð¸ Ð¿ÐµÑ€ÐµÐ¿Ð¸ÑÐ°Ñ‚Ð¸
+RelativePaths=&ÐšÐ¾Ð½Ð²ÐµÑ€Ñ‚ÑƒÐ²Ð°Ñ‚Ð¸ Ð¿Ð¾Ð²Ð½Ñ– ÑˆÐ»ÑÑ…Ð¸ Ð´Ð¾ Ñ„Ð°Ð¹Ð»Ñ–Ð² Ñƒ Ð²Ñ–Ð´Ð½Ð¾ÑÐ½Ñ–
+SaveChanges=Ð’Ð¸ Ð±Ð°Ð¶Ð°Ñ”Ñ‚Ðµ Ð·Ð±ÐµÑ€ÐµÐ³Ñ‚Ð¸ Ð·Ð¼Ñ–Ð½Ð¸ Ñƒ Ñ„Ð°Ð¹Ð»Ñ– "%s"?
+SaveScript=&Ð—Ð±ÐµÑ€ÐµÐ³Ñ‚Ð¸ ÑÑ†ÐµÐ½Ð°Ñ€Ñ–Ð¹
+SelectInstallComponents=&Ð”Ð¾Ð·Ð²Ð¾Ð»Ð¸Ñ‚Ð¸ ÐºÐ¾Ñ€Ð¸ÑÑ‚ÑƒÐ²Ð°Ñ‡Ñƒ Ð²Ð¸Ð±Ñ–Ñ€ ÐºÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚Ñ–Ð² Ð´Ð»Ñ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ¸
+SelectModeMenu=Ð ÐµÐ¶Ð¸Ð¼ Ð²Ð¸Ð´Ñ–Ð»ÐµÐ½Ð½Ñ
+ShortCut=&Ð¯Ñ€Ð»Ð¸Ðº:
+StartMenuDir=Ð†Ð¼'Ñ Ð´Ð¸Ñ€ÐµÐºÑ‚Ð¾Ñ€Ñ–Ñ— Ð² Ð¼ÐµÐ½ÑŽ &Ð¡Ñ‚Ð°Ñ€Ñ‚ Ð´Ð»Ñ Ð´Ð¾Ð´Ð°Ñ‚ÐºÑƒ
+StartupCaption=Ð›Ð°ÑÐºÐ°Ð²Ð¾ Ð¿Ñ€Ð¾ÑÐ¸Ð¼Ð¾
+UninstPrompt=&Ð—Ð°Ð¿Ð¸Ñ‚ Ð½Ð° Ð²Ð¸Ð´Ð°Ð»ÐµÐ½Ð½Ñ:
+UninstSuccesMsg=ÐŸÐ¾Ð²Ñ–Ð´Ð¾Ð¼Ð»ÐµÐ½Ð½Ñ Ð¿Ñ€Ð¸ ÑƒÑÐ¿Ñ–ÑˆÐ½Ð¾Ð¼Ñƒ Ð·Ð°Ð²ÐµÑ€ÑˆÐµÐ½Ð½Ñ– Ð²Ð¸Ð´Ð°Ð»ÐµÐ½Ð½Ñ:
+UninstallIcon=Ð—Ð½Ð°Ñ‡Ð¾Ðº Ð´ÐµÑ–Ð½ÑÑ‚Ð°Ð»ÑÑ‚Ð¾Ñ€Ð°:
+UninstallSubTitle=Ð‘ÑƒÐ´ÑŒ Ð»Ð°ÑÐºÐ° Ð²ÐºÐ°Ð¶Ñ–Ñ‚ÑŒ Ð°Ñ‚Ñ€Ð¸Ð±ÑƒÑ‚Ð¸ Ð´ÐµÑ–Ð½ÑÑ‚Ð°Ð»ÑÑ‚Ð¾Ñ€Ð°.
+UninstallTitle=Ð”ÐµÑ–Ð½ÑÑ‚Ð°Ð»ÑÑ‚Ð¾Ñ€
+UseUninstaller=Ð’Ð¸ÐºÐ¾Ñ€Ð¸ÑÑ‚Ð¾Ð²ÑƒÐ²Ð°Ñ‚Ð¸ Ð´ÐµÑ–Ð½ÑÑ‚Ð°Ð»ÑÑ‚Ð¾Ñ€
+WelcomeLabel1=Ð›Ð°ÑÐºÐ°Ð²Ð¾ Ð¿Ñ€Ð¾ÑÐ¸Ð¼Ð¾ Ð² ÐœÐ°Ð¹ÑÑ‚ÐµÑ€ ÑÑ†ÐµÐ½Ð°Ñ€Ñ–Ð¹ NSIS
+WelcomeLabel2=Ð¦ÐµÐ¹ Ð¼Ð°Ð¹ÑÑ‚ÐµÑ€ Ð´Ð¾Ð·Ð²Ð¾Ð»Ð¸Ñ‚ÑŒ Ð’Ð°Ð¼ ÑˆÐ²Ð¸Ð´ÐºÐ¾ Ñ– Ð»ÐµÐ³ÐºÐ¾ ÑÑ‚Ð²Ð¾Ñ€Ð¸Ñ‚Ð¸ ÑÑ†ÐµÐ½Ð°Ñ€Ñ–Ð¹ Ð´Ð»Ñ Ñ–Ð½ÑÑ‚Ð°Ð»Ð»ÐµÑ€Ð° NSIS. Ð¡Ñ†ÐµÐ½Ð°Ñ€Ñ–Ð¹ Ð¼Ð¾Ð¶Ðµ Ð±ÑƒÑ‚Ð¸ Ð²Ð¸ÐºÐ¾Ñ€Ð¸ÑÑ‚Ð°Ð½Ð¸Ð¹ Ð´Ð»Ñ ÑÑ‚Ð²Ð¾Ñ€ÐµÐ½Ð½Ñ Ñ„Ð°Ð¹Ð»Ð°, ÑÐºÐ¸Ð¹ Ð¼Ð¾Ð¶Ðµ Ð±ÑƒÑ‚Ð¸ Ð²Ñ–Ð´ÐºÐ¾Ð¼Ð¿Ñ–Ð»ÑŽÐ²Ð°Ð½Ð¸Ð¹ Ð°Ð±Ð¾ Ð·Ð±ÐµÑ€ÐµÐ¶ÐµÐ½Ð¸Ð¹. 
+WelcomeLabel3=ÐŸÐ°Ð¼'ÑÑ‚Ð°Ð¹Ñ‚Ðµ, Ñ‰Ð¾ Ð½Ðµ Ð²ÑÑ– Ð¼Ð¾Ð¶Ð»Ð¸Ð²Ð¾ÑÑ‚Ñ– Nullsoft Install System Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ñ– Ñ‡ÐµÑ€ÐµÐ· Ñ†ÐµÐ¹ ÐœÐ°Ð¹ÑÑ‚ÐµÑ€. ÐŸÑ€Ð¾Ñ‡Ð¸Ñ‚Ð°Ð¹Ñ‚Ðµ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð°Ñ†Ñ–ÑŽ Ð½Ð° Nullsoft Install System Ð´Ð»Ñ Ð´ÐµÑ‚Ð°Ð»ÑŒÐ½Ð¾Ñ— Ñ–Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ñ–Ñ—.
+WelcomeLabel4=ÐÐ°Ñ‚Ð¸ÑÐºÑƒÐ¹Ñ‚Ðµ Ð”Ð°Ð»Ñ– Ñ‰Ð¾Ð± Ð¿Ñ€Ð¾Ð´Ð¾Ð²Ð¶Ð¸Ñ‚Ð¸, Ð°Ð±Ð¾ Ð’Ñ–Ð´Ð¼Ñ–Ð½Ð° Ð´Ð»Ñ Ð²Ð¸Ñ…Ð¾Ð´Ñƒ Ð· ÐœÐ°Ð¹ÑÑ‚Ñ€Ð°.
+WizardCaption=ÐœÐ°Ð¹ÑÑ‚ÐµÑ€ ÑÑ†ÐµÐ½Ð°Ñ€Ñ–Ð¹ NSIS

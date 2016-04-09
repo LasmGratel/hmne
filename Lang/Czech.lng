@@ -19,11 +19,11 @@ MainCaption=HM NIS Edit
 
 ; Menus
 FileMenu=&Soubor
-EditMenu=Úpr&avy
+EditMenu=Ãšpr&avy
 SearchMenu=Hl&edat
 ViewMenu=&Zobrazit
-FormatMenu=&Formát
-ToolsMenu=Nás&troje
+FormatMenu=&FormÃ¡t
+ToolsMenu=NÃ¡s&troje
 NSISMenu=&NSIS
 WindowMenu=&Okno
 HelpMenu=&?
@@ -34,83 +34,83 @@ HelpMenu=&?
 ; ItemText|ShortCut|UsageHint
 
 ; File menu
-BlankFile=&Nový skript|Ctrl+N|Vytvoøí nový prázdný skript
-TemplateFile=No&vý skript podle šablony...|Ctrl+T|Vytvoøí nový skript založený na textu již existujícího souboru
-WizardFile=Nový skript pomocí &prùvodce...|Ctrl+W|Vytvoøí nový skript s pomocí prùvodce
-NewIOFile=Nový soubor nastavení &instalace|Ctrl+I|Vytvoøí nový soubor s nastavením instalace (vlastní vzhled)
-FileOpen=&Otevøít...|Ctrl+O|Otevøe již existující skript
-Reopen=Naposle&d otevøené
-FileSave=&Uložit|Ctrl+S|Uloží aktivní skript
-FileSaveAs=Uložit j&ako...||Uloží aktivní skript pod novým jménem nebo jej exportuje do HTML nebo RTF
-FilePrint=&Tisk|Ctrl+P|Vytiskne aktivní skript
-FileConfigPrint=Nastavení tisku...||
-FileExit=&Konec|Alt+F4|Ukonèí program
+BlankFile=&NovÃ½ skript|Ctrl+N|VytvoÅ™Ã­ novÃ½ prÃ¡zdnÃ½ skript
+TemplateFile=No&vÃ½ skript podle Å¡ablony...|Ctrl+T|VytvoÅ™Ã­ novÃ½ skript zaloÅ¾enÃ½ na textu jiÅ¾ existujÃ­cÃ­ho souboru
+WizardFile=NovÃ½ skript pomocÃ­ &prÅ¯vodce...|Ctrl+W|VytvoÅ™Ã­ novÃ½ skript s pomocÃ­ prÅ¯vodce
+NewIOFile=NovÃ½ soubor nastavenÃ­ &instalace|Ctrl+I|VytvoÅ™Ã­ novÃ½ soubor s nastavenÃ­m instalace (vlastnÃ­ vzhled)
+FileOpen=&OtevÅ™Ã­t...|Ctrl+O|OtevÅ™e jiÅ¾ existujÃ­cÃ­ skript
+Reopen=Naposle&d otevÅ™enÃ©
+FileSave=&UloÅ¾it|Ctrl+S|UloÅ¾Ã­ aktivnÃ­ skript
+FileSaveAs=UloÅ¾it j&ako...||UloÅ¾Ã­ aktivnÃ­ skript pod novÃ½m jmÃ©nem nebo jej exportuje do HTML nebo RTF
+FilePrint=&Tisk|Ctrl+P|Vytiskne aktivnÃ­ skript
+FileConfigPrint=NastavenÃ­ tisku...||
+FileExit=&Konec|Alt+F4|UkonÄÃ­ program
 
 ; Edit menu
-EditUndo=&Zpìt|Ctrl+Z|Vrátí zpìt poslední akci
-EditRedo=&Vpøed|Shift+Ctrl+Z|Vezme zpìt poslední zrušenou akci
-EditCut=&Vyjmout|Ctrl+X|Vyjme výbìr a vloží jej do schránky
-EditCopy=K&opírovat|Ctrl+C|Zkopíruje výbìr do schránky
-EditCopyAsHTML=Kopírovat jako HTML||Zkopíruje výbìr do schránky v HTML formátu
-EditPaste=V&ložit|Ctrl+V|Vloží obsah schránky
-EditSelectAll=Vybr&at vše|Ctrl+A|Vybere celý skript
+EditUndo=&ZpÄ›t|Ctrl+Z|VrÃ¡tÃ­ zpÄ›t poslednÃ­ akci
+EditRedo=&VpÅ™ed|Shift+Ctrl+Z|Vezme zpÄ›t poslednÃ­ zruÅ¡enou akci
+EditCut=&Vyjmout|Ctrl+X|Vyjme vÃ½bÄ›r a vloÅ¾Ã­ jej do schrÃ¡nky
+EditCopy=K&opÃ­rovat|Ctrl+C|ZkopÃ­ruje vÃ½bÄ›r do schrÃ¡nky
+EditCopyAsHTML=KopÃ­rovat jako HTML||ZkopÃ­ruje vÃ½bÄ›r do schrÃ¡nky v HTML formÃ¡tu
+EditPaste=V&loÅ¾it|Ctrl+V|VloÅ¾Ã­ obsah schrÃ¡nky
+EditSelectAll=Vybr&at vÅ¡e|Ctrl+A|Vybere celÃ½ skript
 
 ; Search menu
-EditFind=&Najít|Ctrl+F|Vyhledá zadaný text v aktivním skriptu
-EditFindNext=Najít &další|F3|Najde další výskyt hledaného øetìzce
-EditReplace=Nah&radit|Ctrl+R|Nahrazení hledaných øetezcù
-SearchGotoLine=&Jít na øádek|F2|Jít na øádek|F2|Pøejde na zadaný øádek
-ToggleBookmark=Pøiøadi&t záložku
-GotoBookmark=Jít na zál&ožku
-Bookmark=Záložka
+EditFind=&NajÃ­t|Ctrl+F|VyhledÃ¡ zadanÃ½ text v aktivnÃ­m skriptu
+EditFindNext=NajÃ­t &dalÅ¡Ã­|F3|Najde dalÅ¡Ã­ vÃ½skyt hledanÃ©ho Å™etÄ›zce
+EditReplace=Nah&radit|Ctrl+R|NahrazenÃ­ hledanÃ½ch Å™etezcÅ¯
+SearchGotoLine=&JÃ­t na Å™Ã¡dek|F2|JÃ­t na Å™Ã¡dek|F2|PÅ™ejde na zadanÃ½ Å™Ã¡dek
+ToggleBookmark=PÅ™iÅ™adi&t zÃ¡loÅ¾ku
+GotoBookmark=JÃ­t na zÃ¡l&oÅ¾ku
+Bookmark=ZÃ¡loÅ¾ka
 
 ; View menu
-ToolBarsMenu=Panely nástrojù
-ViewBrowser=Prohlížeè|F4|Zobrazí/Skryje prohlížeè webových stránek
-ViewWindowList=Seznam oken|F5|Zobrazí/Skryje seznam otevøených oken
-ViewIOPanel=Nastavení ovladaèù &instalace|F6|Zobrazí/Skryje panel InstallOptions
-ViewStatusBar=&Stavový øádek|F7|Zobrazí/Skryje stavový øádek
-ViewLogBox=Okno zpráv|F8|Zobrazí/Skryje okno zpráv
-ViewSpecialChars=Speciální znaky|F10|Zobrazí zalamování øádkù, mezery a tabelátory a použité speciální znaky
-IOToggleDesignMode=Pøenout mód návrhu|F12|Pøepne mezi módem navrhu nebo editací textu na stránkách nastavení instalace
-ViewOptions=M&ožnosti...|F11|Zobrazí dialog s nastavením
+ToolBarsMenu=Panely nÃ¡strojÅ¯
+ViewBrowser=ProhlÃ­Å¾eÄ|F4|ZobrazÃ­/Skryje prohlÃ­Å¾eÄ webovÃ½ch strÃ¡nek
+ViewWindowList=Seznam oken|F5|ZobrazÃ­/Skryje seznam otevÅ™enÃ½ch oken
+ViewIOPanel=NastavenÃ­ ovladaÄÅ¯ &instalace|F6|ZobrazÃ­/Skryje panel InstallOptions
+ViewStatusBar=&StavovÃ½ Å™Ã¡dek|F7|ZobrazÃ­/Skryje stavovÃ½ Å™Ã¡dek
+ViewLogBox=Okno zprÃ¡v|F8|ZobrazÃ­/Skryje okno zprÃ¡v
+ViewSpecialChars=SpeciÃ¡lnÃ­ znaky|F10|ZobrazÃ­ zalamovÃ¡nÃ­ Å™Ã¡dkÅ¯, mezery a tabelÃ¡tory a pouÅ¾itÃ© speciÃ¡lnÃ­ znaky
+IOToggleDesignMode=PÅ™enout mÃ³d nÃ¡vrhu|F12|PÅ™epne mezi mÃ³dem navrhu nebo editacÃ­ textu na strÃ¡nkÃ¡ch nastavenÃ­ instalace
+ViewOptions=M&oÅ¾nosti...|F11|ZobrazÃ­ dialog s nastavenÃ­m
 
 ; Format menu
-FormatIndent=Odsad&it blok|Shift+Ctrl+I|Zvìtší odsazení oznaèených øádkù
-FormatUnIndent=Zr&ušit odsazení bloku|Shift+Ctrl+U|Zmìnší odsazení oznaèených øádkù
-FormatUpperCase=Velká &písmena|Ctrl+U|Zmìní výbìr na velká písmena
-FormatLowerCase=Ma&lá písmena|Ctrl+L|Zmìní výbìr na malá písmena
-FormatToggleCase=Zmìni&t písmena|Ctrl+H|Invertuje výbraný text z velkých na malé a obrácenì
-FormatQuoteSelection=Vložit &uvozovky|Ctrl+Q|Pøidá k oznaèenému textu uvozovky
+FormatIndent=Odsad&it blok|Shift+Ctrl+I|ZvÄ›tÅ¡Ã­ odsazenÃ­ oznaÄenÃ½ch Å™Ã¡dkÅ¯
+FormatUnIndent=Zr&uÅ¡it odsazenÃ­ bloku|Shift+Ctrl+U|ZmÄ›nÅ¡Ã­ odsazenÃ­ oznaÄenÃ½ch Å™Ã¡dkÅ¯
+FormatUpperCase=VelkÃ¡ &pÃ­smena|Ctrl+U|ZmÄ›nÃ­ vÃ½bÄ›r na velkÃ¡ pÃ­smena
+FormatLowerCase=Ma&lÃ¡ pÃ­smena|Ctrl+L|ZmÄ›nÃ­ vÃ½bÄ›r na malÃ¡ pÃ­smena
+FormatToggleCase=ZmÄ›ni&t pÃ­smena|Ctrl+H|Invertuje vÃ½branÃ½ text z velkÃ½ch na malÃ© a obrÃ¡cenÄ›
+FormatQuoteSelection=VloÅ¾it &uvozovky|Ctrl+Q|PÅ™idÃ¡ k oznaÄenÃ©mu textu uvozovky
 
 ; Tools menu
-ToolsInsertColor=Vložit &barvu...|Shift+F5|Zobrazí dialog pro vložení barvy
-ToolsInsertFile=Vložit &název souboru...|Shift+F6|Zobrazí dialog pro vložení názvu souboru
-CodeTemplates=Šablona kódu
-ToolsEditCodeTemplate=&Upravit šablony...
+ToolsInsertColor=VloÅ¾it &barvu...|Shift+F5|ZobrazÃ­ dialog pro vloÅ¾enÃ­ barvy
+ToolsInsertFile=VloÅ¾it &nÃ¡zev souboru...|Shift+F6|ZobrazÃ­ dialog pro vloÅ¾enÃ­ nÃ¡zvu souboru
+CodeTemplates=Å ablona kÃ³du
+ToolsEditCodeTemplate=&Upravit Å¡ablony...
 
 ; NSIS menu
-NSISCompil=&Kompilovat skript|Ctrl+F9|Zkompiluje aktivní skript
-NSISCompilRun=K&ompilovat a spustit|Shift+F9|Zkompiluje a spustí aktivní skript
+NSISCompil=&Kompilovat skript|Ctrl+F9|Zkompiluje aktivnÃ­ skript
+NSISCompilRun=K&ompilovat a spustit|Shift+F9|Zkompiluje a spustÃ­ aktivnÃ­ skript
 n_NSISStopCompile=Stop compile|Esc|Stop the compiler process
-NSISExec=&Spustit instalátor|F9|Spustí aktivní skript
-NSISConfig=&Nastavení...|Ctrl+F11|Nastavení kompilátoru a cest k soubrùm kompilátoru
+NSISExec=&Spustit instalÃ¡tor|F9|SpustÃ­ aktivnÃ­ skript
+NSISConfig=&NastavenÃ­...|Ctrl+F11|NastavenÃ­ kompilÃ¡toru a cest k soubrÅ¯m kompilÃ¡toru
 
 ; Window menu
-WindowCascade=Kaskádovitì||
-WindowTileHorizontal=Okna nad sebe vodorovnì||
+WindowCascade=KaskÃ¡dovitÄ›||
+WindowTileHorizontal=Okna nad sebe vodorovnÄ›||
 WindowTileVertical=Okna vedle sebe svisle||
-WindowArrangle=Uspoøádat||
-WindowPrior=Pøedchozí okno||
-WindowNext=Další okno||
+WindowArrangle=UspoÅ™Ã¡dat||
+WindowPrior=PÅ™edchozÃ­ okno||
+WindowNext=DalÅ¡Ã­ okno||
 WindowList=Seznam oken
-WindowClose=Zavøít okno
+WindowClose=ZavÅ™Ã­t okno
 WindowShow=Zobrazit okno
-WindowSMU=&Pøepnout mezi oblíbenými|Shift+Ctrl+W|Pøepnì mezi dvìma nejèastìji používanými okny
+WindowSMU=&PÅ™epnout mezi oblÃ­benÃ½mi|Shift+Ctrl+W|PÅ™epnÄ› mezi dvÄ›ma nejÄastÄ›ji pouÅ¾Ã­vanÃ½mi okny
 
 
 ; Help menu
-HelpNSIS=NSIS nápovìda
+HelpNSIS=NSIS nÃ¡povÄ›da
 HelpAbout=O programu...
 
 ; Help menu URL links
@@ -118,11 +118,11 @@ HelpAbout=O programu...
 ; ImageIndex is the image to show in the item; use 41 for home pages, 43 for forums,
 ; 45 for generic links and -1 for no image.
 ; For add a separator use URLLinkX=-
-URLLink1=Domovská stránka HM NIS Edit||http://hmne.sourceforge.net/|41
-URLLink2=Oficiální stránka NSIS||http://nsis.sourceforge.net/|41
+URLLink1=DomovskÃ¡ strÃ¡nka HM NIS Edit||http://hmne.sourceforge.net/|41
+URLLink2=OficiÃ¡lnÃ­ strÃ¡nka NSIS||http://nsis.sourceforge.net/|41
 URLLink3=NSIS Forum||http://forums.winamp.com/forumdisplay.php?s=&forumid=65|43
 URLLink4=-
-URLLink5=Geraltovy stránky||http://geralt.cestiny.cz/|41
+URLLink5=Geraltovy strÃ¡nky||http://geralt.cestiny.cz/|41
 ;URLLink6=Custom link 2||http://pagetoshow2.com/|45
 
 
@@ -131,297 +131,297 @@ URLLink5=Geraltovy stránky||http://geralt.cestiny.cz/|41
 
 ; Tool Bars
 TBMenuCaption=Menu
-TBStandardCaption=Standardní
+TBStandardCaption=StandardnÃ­
 TBEditCaption=Upravit
 TBViewCaption=Zobrazit
-TBSearchCaption=Najít
-TBFormatCaption=Formát
+TBSearchCaption=NajÃ­t
+TBFormatCaption=FormÃ¡t
 TBNSISCaption=NSIS
 TBWindowCaption=Okna
-IOPanelCaption=Ovladaèe InstallOptions
-Browser=Prohlížeè
-MoreButtons=Další tlaèítka
+IOPanelCaption=OvladaÄe InstallOptions
+Browser=ProhlÃ­Å¾eÄ
+MoreButtons=DalÅ¡Ã­ tlaÄÃ­tka
 
 ; Status bar
-CaretPos=Slp: %d - Ød: %d
-Modified=Zmìnìno
-Insert=Vložit
-Overwrite=Pøepsat
-ReadOnly=Pouze pro ètení
+CaretPos=Slp: %d - Å˜d: %d
+Modified=ZmÄ›nÄ›no
+Insert=VloÅ¾it
+Overwrite=PÅ™epsat
+ReadOnly=Pouze pro ÄtenÃ­
 
 ; Open file captions
-OpenTemplateCaption=Otevøít šablonu
-OpenScriptCaption=Otevøít skript
+OpenTemplateCaption=OtevÅ™Ã­t Å¡ablonu
+OpenScriptCaption=OtevÅ™Ã­t skript
 
 ; IO designer
-BringToFront=&Pøenést do popøedí
-SendToBack=Pøené&st do pozadí
+BringToFront=&PÅ™enÃ©st do popÅ™edÃ­
+SendToBack=PÅ™enÃ©&st do pozadÃ­
 Delete=O&dstranit|Ctrl+Del|
-SetTabOrder=&Pøehled ovladaèù...
-ResizeWinto=&Zmìnit pole návrhu
+SetTabOrder=&PÅ™ehled ovladaÄÅ¯...
+ResizeWinto=&ZmÄ›nit pole nÃ¡vrhu
 ResizeItems=Modern UI|320/140;Classic UI|266/130
 
 ; TabOrder dialog
-TabOrderCaption=Pøehled ovladaèù
+TabOrderCaption=PÅ™ehled ovladaÄÅ¯
 Up=Nahor&u
-Down=&Dolù
+Down=&DolÅ¯
 
 ; File filters
-AllFileFilter=Všechny soubory (*.*)|*.*
+AllFileFilter=VÅ¡echny soubory (*.*)|*.*
 NSISFileFilter=NSIS soubory (*.nsi, *.nsh, *.ini)|*.nsi;*.nsh;*.ini
-ExeFileFilter=Spustitelné soubory (*.exe)|*.exe
+ExeFileFilter=SpustitelnÃ© soubory (*.exe)|*.exe
 HTMLFileFilter=HTML soubory (*.htm, *.html)|*.htm;*.html
-INIFileFilter=Soubor nastavení instalace (*.ini)|*.ini
+INIFileFilter=Soubor nastavenÃ­ instalace (*.ini)|*.ini
 IconFileFilter=Soubory ikon (*.ico)|*.ico
-LicFileFilter=Licenèní soubory (*.rtf, *.txt)|*.rtf;*.txt
-NSHFileFilter=NSIS soubory záhlaví (*.nsh)|*.nsh
-RTFFileFilter=Formát RTF (*.rtf)|*.rtf
-TextFileFilter=Textové dokumenty (*.txt)|*.txt
+LicFileFilter=LicenÄnÃ­ soubory (*.rtf, *.txt)|*.rtf;*.txt
+NSHFileFilter=NSIS soubory zÃ¡hlavÃ­ (*.nsh)|*.nsh
+RTFFileFilter=FormÃ¡t RTF (*.rtf)|*.rtf
+TextFileFilter=TextovÃ© dokumenty (*.txt)|*.txt
 CHMFileFilter=CHM soubory (*.chm)|*.chm
-HelpFileFilter=Soubory nápovìdy (*.chm, *.html)|*.chm;*.html
+HelpFileFilter=Soubory nÃ¡povÄ›dy (*.chm, *.html)|*.chm;*.html
 TeXFileFilter=TeX Files (*.tex)|*.tex
 
 ; Message boxes
 ErrorDlgCaption=Chyba
 InformationDlgCaption=Informace
-QuestionDlgCaption=Potvrzení
-WarningDlgCaption=Upozornìní
+QuestionDlgCaption=PotvrzenÃ­
+WarningDlgCaption=UpozornÄ›nÃ­
 
 ; Buttons
 OK=OK
 Cancel=Storno
-Next=Další >
-Back=< Zpìt
-Finish=Dokonèit
-Apply=Použít
+Next=DalÅ¡Ã­ >
+Back=< ZpÄ›t
+Finish=DokonÄit
+Apply=PouÅ¾Ã­t
 
 ; About box
 AboutBoxCaption=O programu
 
 ; Find window
-FindTextCaption=Najít text
-FindText=Najít:
-SearchOptions=Možnosti
-CaseSensitive=Rozlišovat malá a VELKÁ
-WholeWordOnly=Pouze celá slova
+FindTextCaption=NajÃ­t text
+FindText=NajÃ­t:
+SearchOptions=MoÅ¾nosti
+CaseSensitive=RozliÅ¡ovat malÃ¡ a VELKÃ
+WholeWordOnly=Pouze celÃ¡ slova
 SearchFromCursor=Hledat od kurzoru
-SearchSelectedOnly=Pouze ve vybraném textu
+SearchSelectedOnly=Pouze ve vybranÃ©m textu
 Forward=Nahoru
-Backward=Dolù
+Backward=DolÅ¯
 
 ; Replace window
 ReplaceTextCaption=Nahradit text
 ReplaceText=Nahradit:
-ReplaceAll=Nahradit vše
+ReplaceAll=Nahradit vÅ¡e
 
 ; Goto line window
-GotoLineCaption=Jít na øádek
-GotoLinePrompt=Zadejte èíslo øádku:
+GotoLineCaption=JÃ­t na Å™Ã¡dek
+GotoLinePrompt=Zadejte ÄÃ­slo Å™Ã¡dku:
 
 ; Options window
-EnvironmentConfigPage=Prostøedí
+EnvironmentConfigPage=ProstÅ™edÃ­
 EditorConfigPage=Editor
-CompilerConfigPage=Kompilátor
+CompilerConfigPage=KompilÃ¡tor
 PluginsConfigPage=Pluginy
 
 ; Options window Environment Config Page
-GeneralOptions=Obecné nastavení
-ShowSplashScreen=Zobrazit logo pøi spuštìní
-ShowWelcomeDialog=Zobrazit uvítací okno
-MultipleInstances=Povolit spuštìní více instancí programu
-OpenIniFilesIn=V návrhovém módu otevøít soubor .ini
-OpenFilesOnStartup=Pøi spuštìní otevøít naposled otevøený soubor
-UseDefBrowser=Použít výchozí prohlížeè
+GeneralOptions=ObecnÃ© nastavenÃ­
+ShowSplashScreen=Zobrazit logo pÅ™i spuÅ¡tÄ›nÃ­
+ShowWelcomeDialog=Zobrazit uvÃ­tacÃ­ okno
+MultipleInstances=Povolit spuÅ¡tÄ›nÃ­ vÃ­ce instancÃ­ programu
+OpenIniFilesIn=V nÃ¡vrhovÃ©m mÃ³du otevÅ™Ã­t soubor .ini
+OpenFilesOnStartup=PÅ™i spuÅ¡tÄ›nÃ­ otevÅ™Ã­t naposled otevÅ™enÃ½ soubor
+UseDefBrowser=PouÅ¾Ã­t vÃ½chozÃ­ prohlÃ­Å¾eÄ
 Lang=&Jazyk editoru
-BrowserHome=Domovská stránka:
-ToolBarOptions=Nastavení panelu nástrojù
-TBSmoothDrag=Hladká tlaèítka panelu nástrojù
-PanelSmoothDrag=Hladká tlaèítka lišty nástrojù
-TBTheme=Skin panelu nástrojù:
-Default=Výchozí
+BrowserHome=DomovskÃ¡ strÃ¡nka:
+ToolBarOptions=NastavenÃ­ panelu nÃ¡strojÅ¯
+TBSmoothDrag=HladkÃ¡ tlaÄÃ­tka panelu nÃ¡strojÅ¯
+PanelSmoothDrag=HladkÃ¡ tlaÄÃ­tka liÅ¡ty nÃ¡strojÅ¯
+TBTheme=Skin panelu nÃ¡strojÅ¯:
+Default=VÃ½chozÃ­
 OfficeXP=OfficeXP
 Stripes=Stripes
-FileAssoc=Asociace souborù
-DefaultEditor=Za&registrovat jako výchozí editor NSIS souborù
-SuccessfullyRegister=HM NIS Edit byl úspìšnì zaregistrován jako výchozí editor
+FileAssoc=Asociace souborÅ¯
+DefaultEditor=Za&registrovat jako vÃ½chozÃ­ editor NSIS souborÅ¯
+SuccessfullyRegister=HM NIS Edit byl ÃºspÄ›Å¡nÄ› zaregistrovÃ¡n jako vÃ½chozÃ­ editor
 
 IOGridOptions=InstallOptions Designer
-DisplayGrid=Zobrazit møížku
-SnapToGrid=Chytat na møížku
-GridX=Velikost møížky X:
-GridY=Velikost møížky Y:
-CtrlDims=Zobrazit ovladaèe velikosti jako:
-RightBottom=Pravý/Soodní
-WidthHeight=Šíøku/Výšku
-Both=Spodní
-Other=Ostatní
-SaveOptionsIn=Uložit nastavení do:
+DisplayGrid=Zobrazit mÅ™Ã­Å¾ku
+SnapToGrid=Chytat na mÅ™Ã­Å¾ku
+GridX=Velikost mÅ™Ã­Å¾ky X:
+GridY=Velikost mÅ™Ã­Å¾ky Y:
+CtrlDims=Zobrazit ovladaÄe velikosti jako:
+RightBottom=PravÃ½/SoodnÃ­
+WidthHeight=Å Ã­Å™ku/VÃ½Å¡ku
+Both=SpodnÃ­
+Other=OstatnÃ­
+SaveOptionsIn=UloÅ¾it nastavenÃ­ do:
 Registry=Registru
 
 ; Options window Editor Config Page
-DisplayPage=Zobrazení
-OptionsPage=Možnosti
+DisplayPage=ZobrazenÃ­
+OptionsPage=MoÅ¾nosti
 HighlighterPage=Barvy
 
 ; Options window Editor Display Page
-Gutter=Vnitøní okraj
-GutterVisible=Viditelný
-GutterShowLineNumbers=Zobrazit èísla øádkù
-GutterStartAtZero=Zaèínat na nulté øádku
-GutterShowLeaderZeros=Zobrazit rozvinuté èíslování
-GutterFont=Písmo vnitø. okraje:
-GutterColor=Brava vnitø. okraje:
-Font=Písmo
-RightEdge=Pravý okraj
+Gutter=VnitÅ™nÃ­ okraj
+GutterVisible=ViditelnÃ½
+GutterShowLineNumbers=Zobrazit ÄÃ­sla Å™Ã¡dkÅ¯
+GutterStartAtZero=ZaÄÃ­nat na nultÃ© Å™Ã¡dku
+GutterShowLeaderZeros=Zobrazit rozvinutÃ© ÄÃ­slovÃ¡nÃ­
+GutterFont=PÃ­smo vnitÅ™. okraje:
+GutterColor=Brava vnitÅ™. okraje:
+Font=PÃ­smo
+RightEdge=PravÃ½ okraj
 EdgeColumn=Sloupec okraje:
 EdgeColor=Barva okraje:
-LineTabSpacing=Proložení znakù
-ExtraLines=Proložení øádkù:
-TabWidth=Šíøka tabelátoru:
-Bookmarks=Záložky
-BookmarkKeys=Pøiøadit klávesy pro záložky
-BookmarksVisible=Zobrazit záložky
-EditorFont=Písmo editoru
+LineTabSpacing=ProloÅ¾enÃ­ znakÅ¯
+ExtraLines=ProloÅ¾enÃ­ Å™Ã¡dkÅ¯:
+TabWidth=Å Ã­Å™ka tabelÃ¡toru:
+Bookmarks=ZÃ¡loÅ¾ky
+BookmarkKeys=PÅ™iÅ™adit klÃ¡vesy pro zÃ¡loÅ¾ky
+BookmarksVisible=Zobrazit zÃ¡loÅ¾ky
+EditorFont=PÃ­smo editoru
 
 ; Options window Editor Options Page
-AutoIndent=Automatické odsazení|Automaticky odsadí na novém øádku o stejný poèet mezer jako na øádku pøedchozím
-DragAndDropEditing=Editace Drag and drop|Umožní vybraný blok textu pøenést do jiného dokumntu pouhým pøetažením myší
-HalfPageScroll=Posun o pùl stránky|Pøi posunu textu pomocí kláves page-up a page-down se bude text posunovat pouze o pùl stránky
-ScrollByOneLess=Posun o jeden øádek ménì|Vynutí posun o jeden øádek ménì
-ScrollPastEOF=Posun podél konce souboru|Umožní kurzoru posun podél konce oznaèeného souboru
-ScrollPastEOL=Posun podél konce øádku|Umožní kurzoru posun podél koncového znaku na konci øádku
-ShowScrollHint=Zobrazit info o posunu|Zobrazí infomace týkající se èísla øádku pøi posunu ve svislém smìru
-SmartTabs=Chytré tabelátory|Pøi použití tabelátorù se kurzor umístí na volné místo za znakem, tak jako u pøedchozího øádku
-TabsToSpaces=Pøevést tabelátory na mezery|Pøevede tabelátory na stejný poèet mezer  dle šíøky tabelátoru
-TrimTrailingSpaces=Odstranìní mezer na konci|Mezery na konci øádkù budou odstranìny a nebudou tedy uloženy
-AltSetsColumnMode=Mód sloupcového výbìru|Pøi stisku klávesy Alt ude aktivován mód sloupcového výbìru textu
-KeepCaretX=Zachovat pozici kurzoru|Pøi procházení øádkù se nebude mìnit pozice kurzoru
-ScrollHintFollows=Zobrazit info o posunu u myši|Zobrazí informace o posunu pøi vertikálním posunu pomocí myši
-GroupUndo=Rozšíøené vracení zmìn|When undoing/redoing actions, handle all continuos changes of the same kind in one call instead undoing/redoing each command separately
-SmartTabDelete=Chytré tabelátory 2|Totéž jako chytré tabelátory, avšak bez umístìní na volné místo za znakem
-RightMouseMoves=Pøesun kurzoru pravým tlaè. myši|Kurzor se posune na pozici, kde bylo stisknuto pravé tlaèítko myši por vyvolání kontextového menu
-EnhanceHomeKey=Rozšíøené vlastnosti klávesy Home|Rozšíøené vlastnosti klávesy Home pøi navigaci (podobnì jako ve Visual studiu)
-HideShowScrollbars=Schvávat rolovací lištu|Rolovací lišta se zobrazí pokud je to nutné.  Pokud však máte aktivovánu funkci "Posun podél konce øádku", pak bude horizontální lišta zobrazenavždy (zobrazení však lze ovlivni nastavením max. délky)
-DisableScrollArrows=Vypnout rolování pomocí šipek|Vypne rolování pomocí šipek pokud již není možné jít v daném smìru dále
-ShowSpecialChars=Zobrazit speciální znaky|Zobrazí zalamování øádkù, mezery a tabelátory pomocí speciálních znakù
-UndoAfterSave=Zpìt až po uložení
-ViewUsageHints=Použít pøíkazový øádek
+AutoIndent=AutomatickÃ© odsazenÃ­|Automaticky odsadÃ­ na novÃ©m Å™Ã¡dku o stejnÃ½ poÄet mezer jako na Å™Ã¡dku pÅ™edchozÃ­m
+DragAndDropEditing=Editace Drag and drop|UmoÅ¾nÃ­ vybranÃ½ blok textu pÅ™enÃ©st do jinÃ©ho dokumntu pouhÃ½m pÅ™etaÅ¾enÃ­m myÅ¡Ã­
+HalfPageScroll=Posun o pÅ¯l strÃ¡nky|PÅ™i posunu textu pomocÃ­ klÃ¡ves page-up a page-down se bude text posunovat pouze o pÅ¯l strÃ¡nky
+ScrollByOneLess=Posun o jeden Å™Ã¡dek mÃ©nÄ›|VynutÃ­ posun o jeden Å™Ã¡dek mÃ©nÄ›
+ScrollPastEOF=Posun podÃ©l konce souboru|UmoÅ¾nÃ­ kurzoru posun podÃ©l konce oznaÄenÃ©ho souboru
+ScrollPastEOL=Posun podÃ©l konce Å™Ã¡dku|UmoÅ¾nÃ­ kurzoru posun podÃ©l koncovÃ©ho znaku na konci Å™Ã¡dku
+ShowScrollHint=Zobrazit info o posunu|ZobrazÃ­ infomace tÃ½kajÃ­cÃ­ se ÄÃ­sla Å™Ã¡dku pÅ™i posunu ve svislÃ©m smÄ›ru
+SmartTabs=ChytrÃ© tabelÃ¡tory|PÅ™i pouÅ¾itÃ­ tabelÃ¡torÅ¯ se kurzor umÃ­stÃ­ na volnÃ© mÃ­sto za znakem, tak jako u pÅ™edchozÃ­ho Å™Ã¡dku
+TabsToSpaces=PÅ™evÃ©st tabelÃ¡tory na mezery|PÅ™evede tabelÃ¡tory na stejnÃ½ poÄet mezer  dle Å¡Ã­Å™ky tabelÃ¡toru
+TrimTrailingSpaces=OdstranÄ›nÃ­ mezer na konci|Mezery na konci Å™Ã¡dkÅ¯ budou odstranÄ›ny a nebudou tedy uloÅ¾eny
+AltSetsColumnMode=MÃ³d sloupcovÃ©ho vÃ½bÄ›ru|PÅ™i stisku klÃ¡vesy Alt ude aktivovÃ¡n mÃ³d sloupcovÃ©ho vÃ½bÄ›ru textu
+KeepCaretX=Zachovat pozici kurzoru|PÅ™i prochÃ¡zenÃ­ Å™Ã¡dkÅ¯ se nebude mÄ›nit pozice kurzoru
+ScrollHintFollows=Zobrazit info o posunu u myÅ¡i|ZobrazÃ­ informace o posunu pÅ™i vertikÃ¡lnÃ­m posunu pomocÃ­ myÅ¡i
+GroupUndo=RozÅ¡Ã­Å™enÃ© vracenÃ­ zmÄ›n|When undoing/redoing actions, handle all continuos changes of the same kind in one call instead undoing/redoing each command separately
+SmartTabDelete=ChytrÃ© tabelÃ¡tory 2|TotÃ©Å¾ jako chytrÃ© tabelÃ¡tory, avÅ¡ak bez umÃ­stÄ›nÃ­ na volnÃ© mÃ­sto za znakem
+RightMouseMoves=PÅ™esun kurzoru pravÃ½m tlaÄ. myÅ¡i|Kurzor se posune na pozici, kde bylo stisknuto pravÃ© tlaÄÃ­tko myÅ¡i por vyvolÃ¡nÃ­ kontextovÃ©ho menu
+EnhanceHomeKey=RozÅ¡Ã­Å™enÃ© vlastnosti klÃ¡vesy Home|RozÅ¡Ã­Å™enÃ© vlastnosti klÃ¡vesy Home pÅ™i navigaci (podobnÄ› jako ve Visual studiu)
+HideShowScrollbars=SchvÃ¡vat rolovacÃ­ liÅ¡tu|RolovacÃ­ liÅ¡ta se zobrazÃ­ pokud je to nutnÃ©.  Pokud vÅ¡ak mÃ¡te aktivovÃ¡nu funkci "Posun podÃ©l konce Å™Ã¡dku", pak bude horizontÃ¡lnÃ­ liÅ¡ta zobrazenavÅ¾dy (zobrazenÃ­ vÅ¡ak lze ovlivni nastavenÃ­m max. dÃ©lky)
+DisableScrollArrows=Vypnout rolovÃ¡nÃ­ pomocÃ­ Å¡ipek|Vypne rolovÃ¡nÃ­ pomocÃ­ Å¡ipek pokud jiÅ¾ nenÃ­ moÅ¾nÃ© jÃ­t v danÃ©m smÄ›ru dÃ¡le
+ShowSpecialChars=Zobrazit speciÃ¡lnÃ­ znaky|ZobrazÃ­ zalamovÃ¡nÃ­ Å™Ã¡dkÅ¯, mezery a tabelÃ¡tory pomocÃ­ speciÃ¡lnÃ­ch znakÅ¯
+UndoAfterSave=ZpÄ›t aÅ¾ po uloÅ¾enÃ­
+ViewUsageHints=PouÅ¾Ã­t pÅ™Ã­kazovÃ½ Å™Ã¡dek
 
 Caret=Mezery
-InsertCaret=Vložit mezeru:
-OverwriteCaret=Pøepsat mezeru:
-VerticalLine=Svislý øádek
-HorizontalLine=Vodorovný øádek
-HalfBlock=Polovièní blok
+InsertCaret=VloÅ¾it mezeru:
+OverwriteCaret=PÅ™epsat mezeru:
+VerticalLine=SvislÃ½ Å™Ã¡dek
+HorizontalLine=VodorovnÃ½ Å™Ã¡dek
+HalfBlock=PoloviÄnÃ­ blok
 Block=Blok
 
 ; Options window Editor Highlighter Page
-UseHighlighter=Po&užít zvýraznìní syntaxe
+UseHighlighter=Po&uÅ¾Ã­t zvÃ½raznÄ›nÃ­ syntaxe
 Element= Prvek
 TextAttri=Vlastnosti &textu
 Color=Barvy:
-Foreground=Popøedí
-Background=Pozadí
-FontStyle=Styl písma
-Bold=&Tuèné
-Italic=Kurzíva
+Foreground=PopÅ™edÃ­
+Background=PozadÃ­
+FontStyle=Styl pÃ­sma
+Bold=&TuÄnÃ©
+Italic=KurzÃ­va
 Underline=Podtrhnout
-HighlightVarsInsideStrings=&Zvýraznit promìnné mezi øetìzci
+HighlightVarsInsideStrings=&ZvÃ½raznit promÄ›nnÃ© mezi Å™etÄ›zci
 
 ; Options window compiler options Page
 Paths= Cesty
-Compiler=&Kompilátor:
-Help=Nápo&vìda:
-Options=Možnosti
-NoConfigFile=Deaktivovat zahrnutí konfigraèního souboru (nsisconf.nsh).
-NoConsole="%s" není platnou øídící aplikací.
-NOCD=&Deaktivovat zmìnu aktuálního adresáøe na adresáø dle souboru .nsi
+Compiler=&KompilÃ¡tor:
+Help=NÃ¡po&vÄ›da:
+Options=MoÅ¾nosti
+NoConfigFile=Deaktivovat zahrnutÃ­ konfigraÄnÃ­ho souboru (nsisconf.nsh).
+NoConsole="%s" nenÃ­ platnou Å™Ã­dÃ­cÃ­ aplikacÃ­.
+NOCD=&Deaktivovat zmÄ›nu aktuÃ¡lnÃ­ho adresÃ¡Å™e na adresÃ¡Å™ dle souboru .nsi
 Simbols=&Symboly
 SimbolColumn=Symbol
 ValueColumn=Hodnota
-AddSimbol=Pøidat
+AddSimbol=PÅ™idat
 EditSimbol=Upravit
 DeleteSimbol=Odstranit
 EditSimbolCaption=Upravit symbol
 Simbol=&Symbol:
 Value=&Hodnota:
-DuplicateSymbol=Duplikovat název symbolu
+DuplicateSymbol=Duplikovat nÃ¡zev symbolu
 
 ; Options window plugins config page
-PluginConfig=&Nastavení
+PluginConfig=&NastavenÃ­
 PluginAbout=&O pluginu
 
 ; Code templates
-CodeTemplateCaption=Upravit šablony kódù
-TemplateNames=Název šablony
-NewTemplate=Nová šablona
-EditTemplatePrompt=&Zadejte název šablony:
-EditTemplate=Upravit šablonu
-AutoCompleteShortCut=&Automatické dokonèení
-TemplateCode=Šáblona kódu
-DuplicateTemplateName=Šablona "%s" již existuje
+CodeTemplateCaption=Upravit Å¡ablony kÃ³dÅ¯
+TemplateNames=NÃ¡zev Å¡ablony
+NewTemplate=NovÃ¡ Å¡ablona
+EditTemplatePrompt=&Zadejte nÃ¡zev Å¡ablony:
+EditTemplate=Upravit Å¡ablonu
+AutoCompleteShortCut=&AutomatickÃ© dokonÄenÃ­
+TemplateCode=Å Ã¡blona kÃ³du
+DuplicateTemplateName=Å ablona "%s" jiÅ¾ existuje
 
 ; Welcome window
-EmptyScript=Vytvoøit nový soubor &skriptu
-WizardScript=Vytvoøit nový soubor &skriptu pomocí prùvodce
-OpenExistingFile=Otevøít již e&xistující soubor skriptu
-MoreFiles=Další soubory...
-NoShowSartup=&Pøíštì již nezobrazovat
-OpenFile= Otevøít soubor
+EmptyScript=VytvoÅ™it novÃ½ soubor &skriptu
+WizardScript=VytvoÅ™it novÃ½ soubor &skriptu pomocÃ­ prÅ¯vodce
+OpenExistingFile=OtevÅ™Ã­t jiÅ¾ e&xistujÃ­cÃ­ soubor skriptu
+MoreFiles=DalÅ¡Ã­ soubory...
+NoShowSartup=&PÅ™Ã­Å¡tÄ› jiÅ¾ nezobrazovat
+OpenFile= OtevÅ™Ã­t soubor
 
 ; Filter editor
 EditFilterCaption=Upravit filtr
 FilterDescription=Popis filtru:
 Filter=Filtr:
-AddFilter=Pøid&at
+AddFilter=PÅ™id&at
 RemoveFilter=O&dstranit
 
 
 ; Messages
-FileModified=Nìkterá z aplikací aktualizovala soubor "%s". Pøejete si jej znovu naèíst?
-NoCompiler=Pøed kompilováním skriptu musíte definovat a vybrat kompilátor NSIS souborù
-NoDocs=Pøed zobrazením dokumentace NSIS musíte definovat složku se soubory nápovìdy pro NSIS
-OpenFileError=Nemohu otevøít soubor %s
-NoCloseCompiling=Program pøi kompilaci skriptu nelze ukonèit$nlDo you want to stop the compiler?
-Untitled=Nepojmenovaný %.2d
+FileModified=NÄ›kterÃ¡ z aplikacÃ­ aktualizovala soubor "%s". PÅ™ejete si jej znovu naÄÃ­st?
+NoCompiler=PÅ™ed kompilovÃ¡nÃ­m skriptu musÃ­te definovat a vybrat kompilÃ¡tor NSIS souborÅ¯
+NoDocs=PÅ™ed zobrazenÃ­m dokumentace NSIS musÃ­te definovat sloÅ¾ku se soubory nÃ¡povÄ›dy pro NSIS
+OpenFileError=Nemohu otevÅ™Ã­t soubor %s
+NoCloseCompiling=Program pÅ™i kompilaci skriptu nelze ukonÄit$nlDo you want to stop the compiler?
+Untitled=NepojmenovanÃ½ %.2d
 EditTextCaption=Upravit text
-EditListitemsCaption=Upravit seznam položek
+EditListitemsCaption=Upravit seznam poloÅ¾ek
 n_StopCompilePrompt=Are you sure you want to stop the compiler?
 n_CompileCanceled=Compilation canceled by user.
 
 
 ; -------- WIZARD -----------
-EditFile=Upravit záznam souboru
-EditFileCaption=Upravit záznam souboru
+EditFile=Upravit zÃ¡znam souboru
+EditFileCaption=Upravit zÃ¡znam souboru
 EditGroup=Upravit skupinu
-EditLink=Upravit zástupce
-EditLinkCaption=Upravit zástupce
+EditLink=Upravit zÃ¡stupce
+EditLinkCaption=Upravit zÃ¡stupce
 FileColumn=Soubor
-FilelLnkColumn=Zástupce
-FilesSubTitle=Zadejte prosím další soubory, které náleží k vašemu programu.
+FilelLnkColumn=ZÃ¡stupce
+FilesSubTitle=Zadejte prosÃ­m dalÅ¡Ã­ soubory, kterÃ© nÃ¡leÅ¾Ã­ k vaÅ¡emu programu.
 FilesTitle=Soubory programu
-AddFiles=Pøid&at soubor
-AddLink=Nový zástupce
-AppInfoSubTitle=Zadejte prosím základní informace o vašem programu.
+AddFiles=PÅ™id&at soubor
+AddLink=NovÃ½ zÃ¡stupce
+AppInfoSubTitle=Zadejte prosÃ­m zÃ¡kladnÃ­ informace o vaÅ¡em programu.
 AppInfoTitle=Informace o programu
-AppName=Název progr&amu:
-AppPublisher=Tvùrce &programu:
+AppName=NÃ¡zev progr&amu:
+AppPublisher=TvÅ¯rce &programu:
 AppVersion=&Verze programu:
 AppWeb=&Website programu:
-ChangeInstallDir=Povolit uživateli &mìnit adresáø programu
-ChangeStartMenuDir=Povolit uživateli &mìnit název složky v menu Start
-ComponentText=Oznaète komponenty, které si pøejete nainstalovat a odznaète komponety, které si nepøejete instalovat:
+ChangeInstallDir=Povolit uÅ¾ivateli &mÄ›nit adresÃ¡Å™ programu
+ChangeStartMenuDir=Povolit uÅ¾ivateli &mÄ›nit nÃ¡zev sloÅ¾ky v menu Start
+ComponentText=OznaÄte komponenty, kterÃ© si pÅ™ejete nainstalovat a odznaÄte komponety, kterÃ© si nepÅ™ejete instalovat:
 CompScript=K&ompilovat skript
 Compress=K&omprese:
 CompressBZip2=bzip2
-CompressNone=Žádná
+CompressNone=Å½Ã¡dnÃ¡
 CompressZLib=zlib
 CompressLZMA=LZMA
-ConfigCaption=Nastavení
-CreateUninstallIcon=Vytvoøit ve složce menu Start ikonu &Uninstall pro odinstalování
-CreateWebIcon=Vytvoøit ve složce menu Start &internetového zástupce s odkazem
-DefaultAppName=Mùj program
-DefaultAppPublisher=Moje spoleènost, Inc.
+ConfigCaption=NastavenÃ­
+CreateUninstallIcon=VytvoÅ™it ve sloÅ¾ce menu Start ikonu &Uninstall pro odinstalovÃ¡nÃ­
+CreateWebIcon=VytvoÅ™it ve sloÅ¾ce menu Start &internetovÃ©ho zÃ¡stupce s odkazem
+DefaultAppName=MÅ¯j program
+DefaultAppPublisher=Moje spoleÄnost, Inc.
 DefaultAppVersion=1.0
 DefaultAppWeb=http://www.mojespolecnost.cz
 DefaultCompress=zlib
@@ -429,94 +429,94 @@ DefaultExeInst=Setup.exe
 DefaultGUI=Modern
 DefaultGroup=MainGroup
 DefaultInstallIcon=${NSISDIR}\Contrib\Graphics\Icons\modern-install.ico
-DefaultLFS=Klasické tlaèítko
+DefaultLFS=KlasickÃ© tlaÄÃ­tko
 DefaultLangInst=Czech
-DefaultUninstPrompt=Opravdu si pøejete úplnì odstranit [NAME] a všechny jeho komponenty?
-DefaultUninstSuccesMsg=[NAME] byl úspìšnì odstranìn z vašeho poèítaèe.
+DefaultUninstPrompt=Opravdu si pÅ™ejete ÃºplnÄ› odstranit [NAME] a vÅ¡echny jeho komponenty?
+DefaultUninstSuccesMsg=[NAME] byl ÃºspÄ›Å¡nÄ› odstranÄ›n z vaÅ¡eho poÄÃ­taÄe.
 DefaultUninstallIcon=${NSISDIR}\Contrib\Graphics\Icons\modern-uninstall.ico
 DefaultWizardFiles=c:\path\to\file\AppMainExe.exe|$INSTDIR;c:\path\to\file\Example.file|$INSTDIR
 DefaultWizardLicFile=c:\path\to\licence\YourSoftwareLicence.txt
 DefaultWizardSections=MainSection
 DeleteFile=Odt&ranit soubor
 DeleteGroup=Odstranit skupinu
-DeleteLink=Odstranit zástupce
+DeleteLink=Odstranit zÃ¡stupce
 Description=&Popis
-Dest=&Cíl:
-DirDest=Cílový a&dresáø:
-DirDestColumn=Cílový adresáø
-DirText=Instalátor nainstaluje [NAME] do následující složky.$\r$\n$\r$\nPokud si pøejete zmìnit složku, kde bude instalován, klepnìte na tlaèítko Procházet a vyberte ji.
-ExeInst=Název in&stal. souboru:
-ExecFinishSubTitle=Zadejte prosím akce, které se provedou po dokonèení instalace
-ExecFinishTitle=Dokonèení instalace
+Dest=&CÃ­l:
+DirDest=CÃ­lovÃ½ a&dresÃ¡Å™:
+DirDestColumn=CÃ­lovÃ½ adresÃ¡Å™
+DirText=InstalÃ¡tor nainstaluje [NAME] do nÃ¡sledujÃ­cÃ­ sloÅ¾ky.$\r$\n$\r$\nPokud si pÅ™ejete zmÄ›nit sloÅ¾ku, kde bude instalovÃ¡n, klepnÄ›te na tlaÄÃ­tko ProchÃ¡zet a vyberte ji.
+ExeInst=NÃ¡zev in&stal. souboru:
+ExecFinishSubTitle=Zadejte prosÃ­m akce, kterÃ© se provedou po dokonÄenÃ­ instalace
+ExecFinishTitle=DokonÄenÃ­ instalace
 ExecProgram=&Program:
 ExecProgramParams=P&arametry:
-ExecReadme=È&timne:
-ExitWizardPrompt=Prùvodce NSIS skriptem nebyl øádnì dokonèen. Opravdu si jej pøejete ukonèit ještì pøed vlastním vygenerováním nového skriptu.$nl$nlPøejete si ukonèit Prùvodce NSIS skriptem?
-FinishLabel1=Prùvodce byl dokonèen
-FinishLabel2=Právì jste úspìšnì doknèili prùvodce tvorbou instalace.
-FinishLabel3=Pro uzavøení prùvodce a generování nového skriptu klepnìte na tlaèítko Dokonèit.
+ExecReadme=ÄŒ&timne:
+ExitWizardPrompt=PrÅ¯vodce NSIS skriptem nebyl Å™Ã¡dnÄ› dokonÄen. Opravdu si jej pÅ™ejete ukonÄit jeÅ¡tÄ› pÅ™ed vlastnÃ­m vygenerovÃ¡nÃ­m novÃ©ho skriptu.$nl$nlPÅ™ejete si ukonÄit PrÅ¯vodce NSIS skriptem?
+FinishLabel1=PrÅ¯vodce byl dokonÄen
+FinishLabel2=PrÃ¡vÄ› jste ÃºspÄ›Å¡nÄ› doknÄili prÅ¯vodce tvorbou instalace.
+FinishLabel3=Pro uzavÅ™enÃ­ prÅ¯vodce a generovÃ¡nÃ­ novÃ©ho skriptu klepnÄ›te na tlaÄÃ­tko DokonÄit.
 GUI=GUI:
 GUIClassic=Classic
 GUIModern=Modern
-GUINone=Žádné
-IconsSubTitle=Zadejte prosím ikony programu.
+GUINone=Å½Ã¡dnÃ©
+IconsSubTitle=Zadejte prosÃ­m ikony programu.
 IconsTitle=Ikony programu
-IfFileExists=Pokud soubor j&iž existuje
-InsertFileCaption=Vložit název souboru
-InstallDir=Výchozí &adresáø programu:
-InstallIcon=Ikona in&stalátoru:
+IfFileExists=Pokud soubor j&iÅ¾ existuje
+InsertFileCaption=VloÅ¾it nÃ¡zev souboru
+InstallDir=VÃ½chozÃ­ &adresÃ¡Å™ programu:
+InstallIcon=Ikona in&stalÃ¡toru:
 LFSCheckBox=Check box
 LFSRadioButtons=Radio buttons
-LangInst=Jazyk in&stalátoru:
-LicenceFile=&Licenèní soubor
-LicenceSubTitle=Zadejte prosím adresáø a licenèní informace o vašem programu.
-LicenceTitle=Adresáø programu a licence
-LicenseForceSelection= Zvolte zpùsob potvrzení licenèního ujednání
-LicenseText=Jestliže souhlasíte se všemi licenèními podmínkami, zvolte Souhlasím pro pokraèování. Je nutné souhlasit s licenèním ujednáním pro instalaci [NAME]
-LinkDestColumn=Cílový soubor
-ModifyName=Zmìna názvu
-ModifyNamePrompt=Zadejte název skupiny:
-NewFile= Nový soubor
-NewFileCaption=Nový soubor
-NewGroup=Nová skupina
-NewGroupPrompt=Zadejte název skupiny
-NoAppName=Zadejte prosím název programu.
-NoCompress=Zvolte prosím typ komprese
-NoDir=Zadejte prosím výchozí adresáø.
-NoExeInst=Zadejte prosím název instalèního souboru.
+LangInst=Jazyk in&stalÃ¡toru:
+LicenceFile=&LicenÄnÃ­ soubor
+LicenceSubTitle=Zadejte prosÃ­m adresÃ¡Å™ a licenÄnÃ­ informace o vaÅ¡em programu.
+LicenceTitle=AdresÃ¡Å™ programu a licence
+LicenseForceSelection= Zvolte zpÅ¯sob potvrzenÃ­ licenÄnÃ­ho ujednÃ¡nÃ­
+LicenseText=JestliÅ¾e souhlasÃ­te se vÅ¡emi licenÄnÃ­mi podmÃ­nkami, zvolte SouhlasÃ­m pro pokraÄovÃ¡nÃ­. Je nutnÃ© souhlasit s licenÄnÃ­m ujednÃ¡nÃ­m pro instalaci [NAME]
+LinkDestColumn=CÃ­lovÃ½ soubor
+ModifyName=ZmÄ›na nÃ¡zvu
+ModifyNamePrompt=Zadejte nÃ¡zev skupiny:
+NewFile= NovÃ½ soubor
+NewFileCaption=NovÃ½ soubor
+NewGroup=NovÃ¡ skupina
+NewGroupPrompt=Zadejte nÃ¡zev skupiny
+NoAppName=Zadejte prosÃ­m nÃ¡zev programu.
+NoCompress=Zvolte prosÃ­m typ komprese
+NoDir=Zadejte prosÃ­m vÃ½chozÃ­ adresÃ¡Å™.
+NoExeInst=Zadejte prosÃ­m nÃ¡zev instalÄnÃ­ho souboru.
 NoFoundText="%s" nenalezen.
-NoGUI=Zadejte prosím typ GUI.
+NoGUI=Zadejte prosÃ­m typ GUI.
 NoLFS=Classic button
-NoLang=Zvolte prosím jazyk instalátoru.
-NoLinkName=Zadejte prosím název zástupce.
-NoSymbolName=Zadejte prosím název symbolu
-NoSymbolSpaces=V názvech symbolù nelze používat mezery
-NoValidIOControl="%s" není platným ovladaèem InstallOptions
-NoValidIOIni="%s" není platným souborem InstallOptions
-NoVersion=Zadejte prosím èíslo verze programu.
-OptionsSubTitle=Zvolte prosím nastavení pro vaši instalaci.
-OptionsTitle=Možnosti instalace
-OrgDile=Zdrojový &soubor:
-OverwriteIfNewer=Pøepsat pouze novìjšími soubory
-OverwriteOff=Nepøepsat
-OverwriteOn=Vždy pøepsat
-OverwriteTry=Pokusit se o pøepsání
-RelativePaths=&Pøevést cesty k souborùm na cesty relativní
-SaveChanges=Pøejete si uložit zmìny v souboru "%s"?
-SaveScript=&Uložit skript
-SelectInstallComponents=Povolit uživ&ateli vybrat komponenty pro instalaci
-SelectModeMenu=Mód výbìru
-ShortCut=Zá&stupce:
-StartMenuDir=Název složky programu v menu &Start
-StartupCaption=Vítejte
-UninstPrompt=Výzva &odinstalátoru:
-UninstSuccesMsg=&Zpráva o odinstalování:
-UninstallIcon=I&kona odinstalátoru:
-UninstallSubTitle=Zadejte prosím atributy pro odinstalaci programu.
+NoLang=Zvolte prosÃ­m jazyk instalÃ¡toru.
+NoLinkName=Zadejte prosÃ­m nÃ¡zev zÃ¡stupce.
+NoSymbolName=Zadejte prosÃ­m nÃ¡zev symbolu
+NoSymbolSpaces=V nÃ¡zvech symbolÅ¯ nelze pouÅ¾Ã­vat mezery
+NoValidIOControl="%s" nenÃ­ platnÃ½m ovladaÄem InstallOptions
+NoValidIOIni="%s" nenÃ­ platnÃ½m souborem InstallOptions
+NoVersion=Zadejte prosÃ­m ÄÃ­slo verze programu.
+OptionsSubTitle=Zvolte prosÃ­m nastavenÃ­ pro vaÅ¡i instalaci.
+OptionsTitle=MoÅ¾nosti instalace
+OrgDile=ZdrojovÃ½ &soubor:
+OverwriteIfNewer=PÅ™epsat pouze novÄ›jÅ¡Ã­mi soubory
+OverwriteOff=NepÅ™epsat
+OverwriteOn=VÅ¾dy pÅ™epsat
+OverwriteTry=Pokusit se o pÅ™epsÃ¡nÃ­
+RelativePaths=&PÅ™evÃ©st cesty k souborÅ¯m na cesty relativnÃ­
+SaveChanges=PÅ™ejete si uloÅ¾it zmÄ›ny v souboru "%s"?
+SaveScript=&UloÅ¾it skript
+SelectInstallComponents=Povolit uÅ¾iv&ateli vybrat komponenty pro instalaci
+SelectModeMenu=MÃ³d vÃ½bÄ›ru
+ShortCut=ZÃ¡&stupce:
+StartMenuDir=NÃ¡zev sloÅ¾ky programu v menu &Start
+StartupCaption=VÃ­tejte
+UninstPrompt=VÃ½zva &odinstalÃ¡toru:
+UninstSuccesMsg=&ZprÃ¡va o odinstalovÃ¡nÃ­:
+UninstallIcon=I&kona odinstalÃ¡toru:
+UninstallSubTitle=Zadejte prosÃ­m atributy pro odinstalaci programu.
 UninstallTitle=Odinstalace programu
-UseUninstaller=Po&užít odinstalátor
-WelcomeLabel1=Vítejte v prùvodci NSIS skriptem
-WelcomeLabel2=Tento prùvodce Vás postupnì povede tvorbou nového souboru skripru pro NSIS. Výsledkem bude nový soubor skriptu, který mùžete buï pøímo zkompilovat nebo uložit na disk pro pozdìjší úpravy a použití.
-WelcomeLabel3=Upozoròujeme Vás, že ne všechny možnosti Nullsoft Install System je možné nastavit v tomto prùvodci. Více informací o tvorbì souborù skriptu pro NSIS naleznete v dokumentaci!
-WelcomeLabel4=Pro pokraèování klepnìtì na Další, pro ukonèení tohoto prùvodce na tlaèítko Storno.
-WizardCaption=Prùvodce NSIS skriptem
+UseUninstaller=Po&uÅ¾Ã­t odinstalÃ¡tor
+WelcomeLabel1=VÃ­tejte v prÅ¯vodci NSIS skriptem
+WelcomeLabel2=Tento prÅ¯vodce VÃ¡s postupnÄ› povede tvorbou novÃ©ho souboru skripru pro NSIS. VÃ½sledkem bude novÃ½ soubor skriptu, kterÃ½ mÅ¯Å¾ete buÄ pÅ™Ã­mo zkompilovat nebo uloÅ¾it na disk pro pozdÄ›jÅ¡Ã­ Ãºpravy a pouÅ¾itÃ­.
+WelcomeLabel3=UpozorÅˆujeme VÃ¡s, Å¾e ne vÅ¡echny moÅ¾nosti Nullsoft Install System je moÅ¾nÃ© nastavit v tomto prÅ¯vodci. VÃ­ce informacÃ­ o tvorbÄ› souborÅ¯ skriptu pro NSIS naleznete v dokumentaci!
+WelcomeLabel4=Pro pokraÄovÃ¡nÃ­ klepnÄ›tÄ› na DalÅ¡Ã­, pro ukonÄenÃ­ tohoto prÅ¯vodce na tlaÄÃ­tko Storno.
+WizardCaption=PrÅ¯vodce NSIS skriptem

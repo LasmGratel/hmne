@@ -1,5 +1,5 @@
 /*
-  HM NIS Edit (c) 2003 Héctor Mauricio Rodríguez Segura <ranametal@users.sourceforge.net>
+  HM NIS Edit (c) 2003 HÃ©ctor Mauricio RodrÃ­guez Segura <ranametal@users.sourceforge.net>
   For conditions of distribution and use, see license.txt
 
   Installation script
@@ -67,7 +67,7 @@ ShowInstDetails show
 ShowUnInstDetails show
 
 ; Languaje files
-LangString LANGFILE ${LANG_SPANISH} "Español"
+LangString LANGFILE ${LANG_SPANISH} "Spanish"
 LangString LANGFILE ${LANG_ENGLISH} "English"
 LangString LANGFILE ${LANG_POLISH} "Polski"
 LangString LANGFILE ${LANG_FRENCH} "French"
@@ -119,7 +119,7 @@ FunctionEnd
 !macroend
 
 Section "-" SEC01
-  ; Si se instala sobre la versión anterior se hacen las modificaciones respectivas
+  ; Si se instala sobre la versiÃ³n anterior se hacen las modificaciones respectivas
   Delete $INSTDIR\Default.lng
   Delete $INSTDIR\English.lng
   Delete $INSTDIR\Ejemplo\Lic.txt
@@ -146,7 +146,7 @@ Section "-" SEC01
   ; Language files
   SetOverwrite on
   SetOutPath "$INSTDIR\Lang"
-  File "Lang\Español.lng"
+  File "Lang\Spanish.lng"
   File "Lang\English.lng"
   File "Lang\Polski.lng"
   File "Lang\French.lng"
@@ -168,7 +168,7 @@ Section "-" SEC01
   File "Config\IOCtrlFlags.ini"
   File "Config\HelpIndex.ini"
   File "Config\CmpParsing.ini"
-  File "Config\CmpParsing-French.ini" ; <-- Para que amigos de Francia estén contentos :)
+  File "Config\CmpParsing-French.ini" ; <-- Para que amigos de Francia estÃ©n contentos :)
   
   ; Plugins
   SetOutPath "$INSTDIR\Plugins"
@@ -246,7 +246,7 @@ Section Uninstall
   Delete "$INSTDIR\Config\CmpParsing-French.ini"
   Delete "$INSTDIR\Config\IOCtrlFlags.ini"
 
-  Delete "$INSTDIR\Lang\Español.lng"
+  Delete "$INSTDIR\Lang\Spanish.lng"
   Delete "$INSTDIR\Lang\English.lng"
   Delete "$INSTDIR\Lang\Polski.lng"
   Delete "$INSTDIR\Lang\French.lng"
